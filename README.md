@@ -1,4 +1,4 @@
-JOB SHOP SOLVER
+JOB SHOP SCHEDULER
 
 the scheduler requires the SMT solvers Z3Opt and OptiMathSAT to be installed in order to work. 
 
@@ -19,3 +19,10 @@ translated into the SMT standard language through the file 'SMT_translator' and 
 the model is then read using the function 'SMT_exe' from the file 'SMT_executor', which calls either z3 or optimathsat to solve it. 
 the function 'SMT_instance_runner', also contained in the same file, iterates the function 'SMT_exe' over a batch of instances whose names
 are stored in a dictonary (input for the function). 
+
+
+the following files contain additional functions that support the main ones in the scheduling process:
+JSP_classes : python classes for operations, resources, etc. that help build the models;
+JSP_dictonaries: here are stored the dictonaries to use when one wants to run a batch of instances automatically;
+JSP_functions: additional functions that are used to iterate bit-wise operations to build the bit vectors model. also the 
+fuction that translates a z3 model generated through the python API into SMT standard language.
