@@ -66,6 +66,8 @@ def model_converter(archive,instance,model,H = None):
     print('file size (in bytes): ', file_size)
     return H,file_size
 
+
+#this function only measures the model size without actually running the instance
 def store_size(archive,instance,model):
     print('#################################################')
     print('i am evaluating the instance %s \n with model %s' % (instance, model))
