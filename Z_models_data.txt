@@ -1,0 +1,1537 @@
+Instance: ft06, Model: 1, Feasibility: sat, Obj_Fun: 55, Duration: 0.0625  
+Instance: ft10, Model: 1, Feasibility: sat, Obj_Fun: 930, Duration: 6.659204006195068  
+Instance: ft06, Model: 1, Feasibility: sat, Obj_Fun: 55, Duration: 0.07164144515991211  
+Instance: ft10, Model: 1, Feasibility: sat, Obj_Fun: 930, Duration: 7.614408016204834  
+
+NEW TEST
+Instance: ft06, Model: 1, Feasibility: sat, Obj_Fun: 55, Duration: 0.07119083404541016  
+Instance: ft06, Model: 2, Feasibility: sat, Obj_Fun: 55, Duration: 0.08218026161193848  
+Instance: ft06, Model: 3, Feasibility: sat, Obj_Fun: 55, Duration: 0.09126138687133789  
+Instance: ft10, Model: 1, Feasibility: sat, Obj_Fun: 930, Duration: 7.079251766204834  
+Instance: ft10, Model: 2, Feasibility: sat, Obj_Fun: 930, Duration: 10.788268804550171  
+Instance: ft10, Model: 3, Feasibility: sat, Obj_Fun: 930, Duration: 10.758385419845581  
+
+NEW SMT-TEST
+Instance: ft06, Model: 1, Feasibility: sat, Obj_Fun: [55], Duration: 0.13544178009033203  
+Instance: ft10, Model: 1, Feasibility: sat, Obj_Fun: [930], Duration: 7.095912456512451  
+
+NEW SMT-TEST
+Instance: la01, Model: 1, Feasibility: sat, Obj_Fun: [666], Duration: 0.4284796714782715  
+Instance: la02, Model: 1, Feasibility: sat, Obj_Fun: [655], Duration: 1.3718788623809814  
+Instance: la03, Model: 1, Feasibility: sat, Obj_Fun: [597], Duration: 0.4416799545288086  
+Instance: la04, Model: 1, Feasibility: sat, Obj_Fun: [590], Duration: 0.2874603271484375  
+Instance: la05, Model: 1, Feasibility: sat, Obj_Fun: [593], Duration: 2.012908458709717  
+Instance: la06, Model: 1, Feasibility: unknown, Obj_Fun: [1, 1052], Duration: 60.32207751274109  
+Instance: la07, Model: 1, Feasibility: unknown, Obj_Fun: [1, 994], Duration: 60.110103607177734  
+Instance: la08, Model: 1, Feasibility: unknown, Obj_Fun: [1, 863], Duration: 60.305867195129395  
+Instance: la09, Model: 1, Feasibility: unknown, Obj_Fun: [1, 1051], Duration: 60.19321036338806  
+
+NEW SMT-TEST
+Instance: la01, Model: 1, Feasibility: sat, Obj_Fun: [666], Duration: 0.5113966464996338  
+Instance: la02, Model: 1, Feasibility: unknown, Obj_Fun: [1, 661], Duration: 1.06498122215271  
+Instance: la03, Model: 1, Feasibility: sat, Obj_Fun: [597], Duration: 0.4932234287261963  
+Instance: la04, Model: 1, Feasibility: sat, Obj_Fun: [590], Duration: 0.26764798164367676  
+Instance: la05, Model: 1, Feasibility: unknown, Obj_Fun: [1, 593], Duration: 1.0669276714324951  
+Instance: la06, Model: 1, Feasibility: unknown, Obj_Fun: [1, 1052], Duration: 1.0506994724273682  
+Instance: la07, Model: 1, Feasibility: unknown, Obj_Fun: [1, 994], Duration: 1.0658726692199707  
+Instance: la08, Model: 1, Feasibility: unknown, Obj_Fun: [1, 883], Duration: 1.072082281112671  
+Instance: la09, Model: 1, Feasibility: unknown, Obj_Fun: [1, 1051], Duration: 1.0513007640838623  
+Instance: la10, Model: 1, Feasibility: unknown, Obj_Fun: [1, 1053], Duration: 1.0639829635620117  
+Instance: la11, Model: 1, Feasibility: unknown, Obj_Fun: [1, 1232], Duration: 1.0435857772827148  
+Instance: la12, Model: 1, Feasibility: unknown, Obj_Fun: [1, 1155], Duration: 1.0925884246826172  
+Instance: la13, Model: 1, Feasibility: unknown, Obj_Fun: [1, 1274], Duration: 1.0640017986297607  
+Instance: la14, Model: 1, Feasibility: unknown, Obj_Fun: [1, 1399], Duration: 1.063840627670288  
+Instance: la15, Model: 1, Feasibility: unknown, Obj_Fun: [1, 1301], Duration: 1.0480008125305176  
+Instance: la16, Model: 1, Feasibility: unknown, Obj_Fun: [1, 945], Duration: 1.0622870922088623  
+Instance: la17, Model: 1, Feasibility: sat, Obj_Fun: [784], Duration: 0.9073295593261719  
+Instance: la18, Model: 1, Feasibility: sat, Obj_Fun: [848], Duration: 0.6334371566772461  
+Instance: la19, Model: 1, Feasibility: sat, Obj_Fun: [842], Duration: 0.9532463550567627  
+Instance: la20, Model: 1, Feasibility: sat, Obj_Fun: [902], Duration: 0.9543411731719971  
+Instance: la21, Model: 1, Feasibility: unknown, Obj_Fun: [1, 2094], Duration: 1.0633232593536377  
+Instance: la22, Model: 1, Feasibility: unknown, Obj_Fun: [1, 1152], Duration: 1.062657356262207  
+Instance: la23, Model: 1, Feasibility: unknown, Obj_Fun: [1, 2959], Duration: 1.0621373653411865  
+Instance: la24, Model: 1, Feasibility: unknown, Obj_Fun: [1, 2611], Duration: 1.0779681205749512  
+Instance: la25, Model: 1, Feasibility: unknown, Obj_Fun: [1, 1417], Duration: 1.0629792213439941  
+Instance: la26, Model: 1, Feasibility: unknown, Obj_Fun: [1], Duration: 1.0875904560089111  
+Instance: la27, Model: 1, Feasibility: unknown, Obj_Fun: [1], Duration: 1.0795857906341553  
+Instance: la28, Model: 1, Feasibility: unknown, Obj_Fun: [1, 7583], Duration: 1.0880935192108154  
+Instance: la29, Model: 1, Feasibility: unknown, Obj_Fun: [1], Duration: 1.0791454315185547  
+Instance: la30, Model: 1, Feasibility: unknown, Obj_Fun: [1], Duration: 1.0677099227905273  
+Instance: la31, Model: 1, Feasibility: unknown, Obj_Fun: [1], Duration: 1.1399974822998047  
+Instance: la32, Model: 1, Feasibility: unknown, Obj_Fun: [1], Duration: 1.1567103862762451  
+Instance: la33, Model: 1, Feasibility: unknown, Obj_Fun: [1], Duration: 1.1404588222503662  
+Instance: la34, Model: 1, Feasibility: unknown, Obj_Fun: [1], Duration: 1.135802984237671  
+Instance: la35, Model: 1, Feasibility: unknown, Obj_Fun: [1, 10449], Duration: 1.1242263317108154  
+Instance: la36, Model: 1, Feasibility: unknown, Obj_Fun: [1], Duration: 1.077502727508545  
+Instance: la37, Model: 1, Feasibility: unknown, Obj_Fun: [1, 8286], Duration: 1.065683364868164  
+Instance: la38, Model: 1, Feasibility: unknown, Obj_Fun: [1, 7575], Duration: 1.0628471374511719  
+Instance: la39, Model: 1, Feasibility: unknown, Obj_Fun: [1], Duration: 1.0787122249603271  
+Instance: la40, Model: 1, Feasibility: unknown, Obj_Fun: [1], Duration: 1.0781121253967285  
+
+NEW SMT-TEST
+Instance: la01, Model: 1, Feasibility: sat, Obj_Fun: [666], Duration: 0.406994104385376  
+Instance: la02, Model: 1, Feasibility: sat, Obj_Fun: [655], Duration: 1.362877368927002  
+Instance: la03, Model: 1, Feasibility: sat, Obj_Fun: [597], Duration: 0.4049489498138428  
+Instance: la04, Model: 1, Feasibility: sat, Obj_Fun: [590], Duration: 0.2840898036956787  
+Instance: la05, Model: 1, Feasibility: sat, Obj_Fun: [593], Duration: 2.0447568893432617  
+Instance: la06, Model: 1, Feasibility: unknown, Obj_Fun: [1, 1052], Duration: 3602.224133014679  
+Instance: la07, Model: 1, Feasibility: unknown, Obj_Fun: [1, 994], Duration: 3600.4660427570343  
+Instance: la08, Model: 1, Feasibility: unknown, Obj_Fun: [1, 863], Duration: 3605.85946059227  
+Instance: la09, Model: 1, Feasibility: unknown, Obj_Fun: [1, 957], Duration: 3602.5719974040985  
+Instance: la10, Model: 1, Feasibility: unknown, Obj_Fun: [1, 1053], Duration: 3604.148001432419  
+Instance: la11, Model: 1, Feasibility: unknown, Obj_Fun: [1, 1232], Duration: 3605.232936143875  
+Instance: la12, Model: 1, Feasibility: unknown, Obj_Fun: [1, 1155], Duration: 3602.119508266449  
+Instance: la13, Model: 1, Feasibility: unknown, Obj_Fun: [1, 1274], Duration: 3612.093295812607  
+Instance: la14, Model: 1, Feasibility: unknown, Obj_Fun: [1, 1399], Duration: 3600.3130974769592  
+Instance: la15, Model: 1, Feasibility: unknown, Obj_Fun: [1, 1301], Duration: 3600.2737300395966  
+Instance: la16, Model: 1, Feasibility: sat, Obj_Fun: [945], Duration: 1.095773458480835  
+Instance: la17, Model: 1, Feasibility: sat, Obj_Fun: [784], Duration: 0.8595209121704102  
+Instance: la18, Model: 1, Feasibility: sat, Obj_Fun: [848], Duration: 0.5810778141021729  
+Instance: la19, Model: 1, Feasibility: sat, Obj_Fun: [842], Duration: 0.9239232540130615  
+Instance: la20, Model: 1, Feasibility: sat, Obj_Fun: [902], Duration: 0.877000093460083  
+Instance: la21, Model: 1, Feasibility: unknown, Obj_Fun: [1, 1046], Duration: 3600.2107088565826  
+Instance: la22, Model: 1, Feasibility: sat, Obj_Fun: [927], Duration: 414.5961833000183  
+Instance: la23, Model: 1, Feasibility: sat, Obj_Fun: [1032], Duration: 1837.788328886032  
+Instance: la24, Model: 1, Feasibility: sat, Obj_Fun: [935], Duration: 324.7940888404846  
+Instance: la25, Model: 1, Feasibility: sat, Obj_Fun: [977], Duration: 402.1685543060303  
+Instance: la26, Model: 1, Feasibility: unknown, Obj_Fun: [1, 1218], Duration: 3600.0923624038696  
+Instance: la27, Model: 1, Feasibility: unknown, Obj_Fun: [1, 1286], Duration: 3600.284613132477  
+Instance: la28, Model: 1, Feasibility: unknown, Obj_Fun: [1, 1217], Duration: 3600.4528996944427  
+Instance: la29, Model: 1, Feasibility: unknown, Obj_Fun: [1, 1211], Duration: 3600.1603536605835  
+Instance: la30, Model: 1, Feasibility: unknown, Obj_Fun: [1, 1508], Duration: 3600.170443058014  
+Instance: la31, Model: 1, Feasibility: unknown, Obj_Fun: [1, 1904], Duration: 3600.125688791275  
+Instance: la32, Model: 1, Feasibility: unknown, Obj_Fun: [1, 2056], Duration: 3600.1093711853027  
+Instance: la33, Model: 1, Feasibility: unknown, Obj_Fun: [1, 1890], Duration: 3600.115394115448  
+Instance: la34, Model: 1, Feasibility: unknown, Obj_Fun: [1, 1869], Duration: 3600.1620235443115  
+Instance: la35, Model: 1, Feasibility: unknown, Obj_Fun: [1, 1956], Duration: 3600.087587118149  
+Instance: la36, Model: 1, Feasibility: sat, Obj_Fun: [1268], Duration: 322.80586862564087  
+Instance: la37, Model: 1, Feasibility: sat, Obj_Fun: [1397], Duration: 2345.7029042243958  
+Instance: la38, Model: 1, Feasibility: sat, Obj_Fun: [1196], Duration: 1700.077219247818  
+Instance: la39, Model: 1, Feasibility: sat, Obj_Fun: [1233], Duration: 166.19985914230347  
+Instance: la40, Model: 1, Feasibility: sat, Obj_Fun: [1222], Duration: 2190.582752466202  
+
+
+NEW SMT-TEST
+Instance: ta06, Model: 1, Feasibility: unknown, Obj_Fun: [1, 1266], Duration: 600.025486946  
+Instance: sfr23, Model: 1, Feasibility: sat, Obj_Fun: [135], Duration: 0.316337823868  
+Instance: ta01, Model: 1, Feasibility: sat, Obj_Fun: [1231], Duration: 81.6808080673  
+Instance: ta07, Model: 1, Feasibility: unknown, Obj_Fun: [1, 1239], Duration: 600.041271925  
+Instance: ta09, Model: 1, Feasibility: sat, Obj_Fun: [1274], Duration: 576.52840209  
+Instance: sfr02, Model: 1, Feasibility: sat, Obj_Fun: [53], Duration: 0.00853896141052  
+Instance: sfr03, Model: 1, Feasibility: sat, Obj_Fun: [31], Duration: 0.0101509094238  
+Instance: ta03, Model: 1, Feasibility: sat, Obj_Fun: [1218], Duration: 240.282148838  
+Instance: sfr01, Model: 1, Feasibility: sat, Obj_Fun: [42], Duration: 0.00976610183716  
+Instance: sfr06, Model: 1, Feasibility: sat, Obj_Fun: [75], Duration: 0.010999917984  
+Instance: sfr07, Model: 1, Feasibility: sat, Obj_Fun: [60], Duration: 0.0115909576416  
+Instance: sfr04, Model: 1, Feasibility: sat, Obj_Fun: [41], Duration: 0.00830101966858  
+Instance: sfr05, Model: 1, Feasibility: sat, Obj_Fun: [35], Duration: 0.007572889328  
+Instance: sfr20, Model: 1, Feasibility: sat, Obj_Fun: [88], Duration: 0.0418779850006  
+Instance: sfr21, Model: 1, Feasibility: sat, Obj_Fun: [104], Duration: 0.108996868134  
+Instance: sfr08, Model: 1, Feasibility: sat, Obj_Fun: [61], Duration: 0.0107431411743  
+Instance: sfr09, Model: 1, Feasibility: sat, Obj_Fun: [62], Duration: 0.0105431079865  
+Instance: sfr24, Model: 1, Feasibility: sat, Obj_Fun: [110], Duration: 0.10017490387  
+Instance: sfr25, Model: 1, Feasibility: sat, Obj_Fun: [101], Duration: 0.0862720012665  
+Instance: sfr26, Model: 1, Feasibility: sat, Obj_Fun: [128], Duration: 0.31859588623  
+Instance: sfr27, Model: 1, Feasibility: sat, Obj_Fun: [147], Duration: 0.282609939575  
+Instance: orb02, Model: 1, Feasibility: sat, Obj_Fun: [888], Duration: 0.98740196228  
+Instance: orb03, Model: 1, Feasibility: sat, Obj_Fun: [1005], Duration: 35.8209450245  
+Instance: orb01, Model: 1, Feasibility: sat, Obj_Fun: [1059], Duration: 284.346982002  
+Instance: orb06, Model: 1, Feasibility: sat, Obj_Fun: [1010], Duration: 45.1468548775  
+Instance: orb07, Model: 1, Feasibility: sat, Obj_Fun: [397], Duration: 2.2676320076  
+Instance: orb04, Model: 1, Feasibility: sat, Obj_Fun: [1005], Duration: 4.46186089516  
+Instance: orb05, Model: 1, Feasibility: sat, Obj_Fun: [887], Duration: 2.51460409164  
+Instance: orb08, Model: 1, Feasibility: sat, Obj_Fun: [899], Duration: 3.50525689125  
+Instance: orb09, Model: 1, Feasibility: sat, Obj_Fun: [934], Duration: 3.76795482635  
+Instance: sfr28, Model: 1, Feasibility: sat, Obj_Fun: [135], Duration: 0.252426147461  
+Instance: sfr29, Model: 1, Feasibility: sat, Obj_Fun: [117], Duration: 0.214673995972  
+Instance: ta10, Model: 1, Feasibility: sat, Obj_Fun: [1241], Duration: 238.831855059  
+Instance: ta02, Model: 1, Feasibility: sat, Obj_Fun: [1244], Duration: 471.504704952  
+Instance: ta05, Model: 1, Feasibility: unknown, Obj_Fun: [1, 1235], Duration: 600.058544159  
+Instance: ta04, Model: 1, Feasibility: sat, Obj_Fun: [1175], Duration: 100.657202005  
+Instance: sfr11, Model: 1, Feasibility: sat, Obj_Fun: [86], Duration: 0.0218448638916  
+Instance: sfr10, Model: 1, Feasibility: sat, Obj_Fun: [62], Duration: 0.0168797969818  
+Instance: sfr13, Model: 1, Feasibility: sat, Obj_Fun: [77], Duration: 0.0226171016693  
+Instance: sfr12, Model: 1, Feasibility: sat, Obj_Fun: [65], Duration: 0.0179841518402  
+Instance: sfr15, Model: 1, Feasibility: sat, Obj_Fun: [79], Duration: 0.022027015686  
+Instance: sfr14, Model: 1, Feasibility: sat, Obj_Fun: [103], Duration: 0.022479057312  
+Instance: sfr17, Model: 1, Feasibility: sat, Obj_Fun: [88], Duration: 0.0332610607147  
+Instance: sfr16, Model: 1, Feasibility: sat, Obj_Fun: [95], Duration: 0.0423469543457  
+Instance: sfr19, Model: 1, Feasibility: sat, Obj_Fun: [110], Duration: 0.0506229400635  
+Instance: sfr18, Model: 1, Feasibility: sat, Obj_Fun: [102], Duration: 0.0486590862274  
+Instance: sfr35, Model: 1, Feasibility: sat, Obj_Fun: [157], Duration: 0.225019216537  
+Instance: sfr34, Model: 1, Feasibility: sat, Obj_Fun: [144], Duration: 0.19833278656  
+Instance: sfr33, Model: 1, Feasibility: sat, Obj_Fun: [148], Duration: 0.224165201187  
+Instance: sfr32, Model: 1, Feasibility: sat, Obj_Fun: [156], Duration: 0.131361961365  
+Instance: sfr31, Model: 1, Feasibility: sat, Obj_Fun: [154], Duration: 0.155745983124  
+Instance: sfr30, Model: 1, Feasibility: sat, Obj_Fun: [126], Duration: 0.300657987595  
+Instance: orb10, Model: 1, Feasibility: sat, Obj_Fun: [944], Duration: 2.74684810638  
+Instance: ta08, Model: 1, Feasibility: sat, Obj_Fun: [1217], Duration: 366.444014072  
+Instance: sfr22, Model: 1, Feasibility: sat, Obj_Fun: [110], Duration: 0.0702729225159  
+
+NEW SMT-TEST
+Instance: ta06, Model: 4, Feasibility: unknown, Obj_Fun: [1], Duration: 600.363475084  
+Instance: sfr23, Model: 4, Feasibility: sat, Obj_Fun: [135], Duration: 535.253582954  
+Instance: ta01, Model: 4, Feasibility: unknown, Obj_Fun: [1], Duration: 600.362731934  
+Instance: ta07, Model: 4, Feasibility: unknown, Obj_Fun: [1], Duration: 600.357051134  
+Instance: ta09, Model: 4, Feasibility: unknown, Obj_Fun: [1], Duration: 600.365942001  
+Instance: sfr02, Model: 4, Feasibility: sat, Obj_Fun: [53], Duration: 0.0191931724548  
+Instance: sfr03, Model: 4, Feasibility: sat, Obj_Fun: [31], Duration: 0.0188000202179  
+Instance: ta03, Model: 4, Feasibility: unknown, Obj_Fun: [1], Duration: 600.365463018  
+Instance: sfr01, Model: 4, Feasibility: sat, Obj_Fun: [42], Duration: 0.0210618972778  
+Instance: sfr06, Model: 4, Feasibility: sat, Obj_Fun: [75], Duration: 0.117807149887  
+Instance: sfr07, Model: 4, Feasibility: sat, Obj_Fun: [60], Duration: 0.0733168125153  
+Instance: sfr04, Model: 4, Feasibility: sat, Obj_Fun: [41], Duration: 0.016361951828  
+Instance: sfr05, Model: 4, Feasibility: sat, Obj_Fun: [35], Duration: 0.0155529975891  
+Instance: sfr20, Model: 4, Feasibility: sat, Obj_Fun: [88], Duration: 27.9169540405  
+Instance: sfr21, Model: 4, Feasibility: unknown, Obj_Fun: [1, 105], Duration: 600.085094213  
+Instance: sfr08, Model: 4, Feasibility: sat, Obj_Fun: [61], Duration: 0.103683948517  
+Instance: sfr09, Model: 4, Feasibility: sat, Obj_Fun: [62], Duration: 0.183367967606  
+Instance: sfr24, Model: 4, Feasibility: unknown, Obj_Fun: [1, 135], Duration: 600.086250067  
+Instance: sfr25, Model: 4, Feasibility: unknown, Obj_Fun: [1, 117], Duration: 600.108701944  
+Instance: sfr26, Model: 4, Feasibility: unknown, Obj_Fun: [1, 316], Duration: 600.136798143  
+Instance: sfr27, Model: 4, Feasibility: unknown, Obj_Fun: [1, 341], Duration: 600.159843922  
+Instance: orb02, Model: 4, Feasibility: unknown, Obj_Fun: [1], Duration: 600.101052046  
+Instance: orb03, Model: 4, Feasibility: unknown, Obj_Fun: [1], Duration: 600.111033916  
+Instance: orb01, Model: 4, Feasibility: unknown, Obj_Fun: [1], Duration: 600.122564077  
+Instance: orb06, Model: 4, Feasibility: unknown, Obj_Fun: [1], Duration: 600.095402956  
+Instance: orb07, Model: 4, Feasibility: unknown, Obj_Fun: [1], Duration: 600.106799126  
+Instance: orb04, Model: 4, Feasibility: unknown, Obj_Fun: [1], Duration: 600.096030951  
+Instance: orb05, Model: 4, Feasibility: unknown, Obj_Fun: [1], Duration: 600.108844995  
+Instance: orb08, Model: 4, Feasibility: unknown, Obj_Fun: [1], Duration: 600.129944801  
+Instance: orb09, Model: 4, Feasibility: unknown, Obj_Fun: [1], Duration: 600.103539944  
+Instance: sfr28, Model: 4, Feasibility: unknown, Obj_Fun: [1, 349], Duration: 600.149439096  
+Instance: sfr29, Model: 4, Feasibility: unknown, Obj_Fun: [1, 345], Duration: 600.142447948  
+Instance: ta10, Model: 4, Feasibility: unknown, Obj_Fun: [1], Duration: 600.366082191  
+Instance: ta02, Model: 4, Feasibility: unknown, Obj_Fun: [1], Duration: 600.351197958  
+Instance: ta05, Model: 4, Feasibility: unknown, Obj_Fun: [1], Duration: 600.369410038  
+Instance: ta04, Model: 4, Feasibility: unknown, Obj_Fun: [1], Duration: 600.355249166  
+Instance: sfr11, Model: 4, Feasibility: sat, Obj_Fun: [86], Duration: 0.878725767136  
+Instance: sfr10, Model: 4, Feasibility: sat, Obj_Fun: [62], Duration: 0.099415063858  
+Instance: sfr13, Model: 4, Feasibility: sat, Obj_Fun: [77], Duration: 2.23083782196  
+Instance: sfr12, Model: 4, Feasibility: sat, Obj_Fun: [65], Duration: 0.959161043167  
+Instance: sfr15, Model: 4, Feasibility: sat, Obj_Fun: [79], Duration: 1.29746484756  
+Instance: sfr14, Model: 4, Feasibility: sat, Obj_Fun: [103], Duration: 1.00229406357  
+Instance: sfr17, Model: 4, Feasibility: sat, Obj_Fun: [88], Duration: 52.2999949455  
+Instance: sfr16, Model: 4, Feasibility: sat, Obj_Fun: [95], Duration: 56.3249258995  
+Instance: sfr19, Model: 4, Feasibility: sat, Obj_Fun: [110], Duration: 76.5290157795  
+Instance: sfr18, Model: 4, Feasibility: sat, Obj_Fun: [102], Duration: 14.1595759392  
+Instance: sfr35, Model: 4, Feasibility: unknown, Obj_Fun: [1], Duration: 600.085617065  
+Instance: sfr34, Model: 4, Feasibility: unknown, Obj_Fun: [1], Duration: 600.08297205  
+Instance: sfr33, Model: 4, Feasibility: unknown, Obj_Fun: [1], Duration: 600.076703072  
+Instance: sfr32, Model: 4, Feasibility: unknown, Obj_Fun: [1], Duration: 600.086996078  
+Instance: sfr31, Model: 4, Feasibility: unknown, Obj_Fun: [1], Duration: 600.082447052  
+Instance: sfr30, Model: 4, Feasibility: unknown, Obj_Fun: [1, 277], Duration: 600.12686491  
+Instance: orb10, Model: 4, Feasibility: unknown, Obj_Fun: [1], Duration: 600.108844995  
+Instance: ta08, Model: 4, Feasibility: unknown, Obj_Fun: [1], Duration: 600.357323885  
+Instance: sfr22, Model: 4, Feasibility: unknown, Obj_Fun: [1, 132], Duration: 600.111583948  
+
+NEW SMT-TEST
+Instance: sfr02, Model: 5, Feasibility: sat, Obj_Fun: [52], Duration: 0.0725018978119  
+Instance: sfr03, Model: 5, Feasibility: sat, Obj_Fun: [31], Duration: 0.0418469905853  
+Instance: sfr13, Model: 5, Feasibility: sat, Obj_Fun: [77], Duration: 2.08500289917  
+Instance: sfr01, Model: 5, Feasibility: sat, Obj_Fun: [42], Duration: 0.0642168521881  
+Instance: sfr06, Model: 5, Feasibility: sat, Obj_Fun: [75], Duration: 0.260493993759  
+Instance: sfr07, Model: 5, Feasibility: sat, Obj_Fun: [60], Duration: 0.303449869156  
+Instance: sfr04, Model: 5, Feasibility: sat, Obj_Fun: [40], Duration: 0.0477550029755  
+Instance: sfr05, Model: 5, Feasibility: sat, Obj_Fun: [35], Duration: 0.0541729927063  
+Instance: sfr19, Model: 5, Feasibility: sat, Obj_Fun: [110], Duration: 9.39786410332  
+Instance: sfr18, Model: 5, Feasibility: sat, Obj_Fun: [102], Duration: 5.6847140789  
+Instance: sfr08, Model: 5, Feasibility: sat, Obj_Fun: [61], Duration: 0.210836172104  
+Instance: sfr09, Model: 5, Feasibility: sat, Obj_Fun: [62], Duration: 0.223794937134  
+Instance: sfr20, Model: 5, Feasibility: sat, Obj_Fun: [88], Duration: 6.07319116592  
+Instance: sfr17, Model: 5, Feasibility: sat, Obj_Fun: [88], Duration: 5.80881595612  
+Instance: sfr16, Model: 5, Feasibility: sat, Obj_Fun: [95], Duration: 6.45000910759  
+Instance: sfr15, Model: 5, Feasibility: sat, Obj_Fun: [79], Duration: 2.260201931  
+Instance: sfr12, Model: 5, Feasibility: sat, Obj_Fun: [65], Duration: 0.979885101318  
+Instance: sfr10, Model: 5, Feasibility: sat, Obj_Fun: [62], Duration: 0.252211093903  
+Instance: sfr11, Model: 5, Feasibility: sat, Obj_Fun: [86], Duration: 2.03474807739  
+Instance: sfr14, Model: 5, Feasibility: sat, Obj_Fun: [103], Duration: 1.73952102661  
+
+NEW SMT-TEST
+Instance: sfr28, Model: 5, Feasibility: sat, Obj_Fun: [135], Duration: 299.060051918  
+Instance: sfr29, Model: 5, Feasibility: sat, Obj_Fun: [117], Duration: 88.4997479916  
+Instance: sfr32, Model: 5, Feasibility: sat, Obj_Fun: [156], Duration: 407.300014019  
+Instance: sfr33, Model: 5, Feasibility: unknown, Obj_Fun: [1, 152], Duration: 603.214360952  
+Instance: sfr34, Model: 5, Feasibility: sat, Obj_Fun: [144], Duration: 186.050239086  
+Instance: sfr21, Model: 5, Feasibility: sat, Obj_Fun: [104], Duration: 31.7894790173  
+Instance: sfr22, Model: 5, Feasibility: sat, Obj_Fun: [110], Duration: 32.8142518997  
+Instance: sfr23, Model: 5, Feasibility: sat, Obj_Fun: [135], Duration: 68.0407159328  
+Instance: sfr24, Model: 5, Feasibility: sat, Obj_Fun: [110], Duration: 27.9046089649  
+Instance: sfr25, Model: 5, Feasibility: sat, Obj_Fun: [101], Duration: 32.0744879246  
+Instance: sfr26, Model: 5, Feasibility: sat, Obj_Fun: [128], Duration: 130.320739031  
+Instance: sfr27, Model: 5, Feasibility: sat, Obj_Fun: [147], Duration: 170.679461002  
+Instance: sfr31, Model: 5, Feasibility: sat, Obj_Fun: [154], Duration: 374.235398054  
+Instance: sfr30, Model: 5, Feasibility: sat, Obj_Fun: [126], Duration: 94.3578419685  
+Instance: sfr35, Model: 5, Feasibility: unknown, Obj_Fun: [1, 190], Duration: 603.077064991  
+
+
+NEW SMT-TEST
+Instance: ta06, Model: 1, Solver: Z3, Feasibility: unknown, Obj_Fun: [1, 1266], Duration: 600.025817871  
+Instance: ta17, Model: 1, Solver: Z3, Feasibility: unknown, Obj_Fun: [1, 1937], Duration: 600.032738924  
+Instance: la02, Model: 1, Solver: Z3, Feasibility: sat, Obj_Fun: [655], Duration: 0.932344198227  
+Instance: ta11, Model: 1, Solver: Z3, Feasibility: unknown, Obj_Fun: [1, 1409], Duration: 600.048124075  
+Instance: ta20, Model: 1, Solver: Z3, Feasibility: unknown, Obj_Fun: [1, 1382], Duration: 600.034358025  
+Instance: ta18, Model: 1, Solver: Z3, Feasibility: unknown, Obj_Fun: [1, 1974], Duration: 600.03520298  
+Instance: ta01, Model: 1, Solver: Z3, Feasibility: sat, Obj_Fun: [1231], Duration: 81.9983799458  
+Instance: ta14, Model: 1, Solver: Z3, Feasibility: unknown, Obj_Fun: [1, 1839], Duration: 600.032539845  
+Instance: la36, Model: 1, Solver: Z3, Feasibility: sat, Obj_Fun: [1268], Duration: 218.707802057  
+Instance: ta07, Model: 1, Solver: Z3, Feasibility: unknown, Obj_Fun: [1, 1239], Duration: 600.040716887  
+Instance: ta16, Model: 1, Solver: Z3, Feasibility: unknown, Obj_Fun: [1, 1437], Duration: 600.032112122  
+Instance: ta09, Model: 1, Solver: Z3, Feasibility: sat, Obj_Fun: [1274], Duration: 584.553012133  
+Instance: la09, Model: 1, Solver: Z3, Feasibility: unknown, Obj_Fun: [1, 1051], Duration: 602.300000906  
+Instance: la08, Model: 1, Solver: Z3, Feasibility: unknown, Obj_Fun: [1, 863], Duration: 600.262819052  
+Instance: la21, Model: 1, Solver: Z3, Feasibility: unknown, Obj_Fun: [1, 1066], Duration: 600.023083925  
+Instance: la20, Model: 1, Solver: Z3, Feasibility: sat, Obj_Fun: [902], Duration: 0.596760988235  
+Instance: la27, Model: 1, Solver: Z3, Feasibility: unknown, Obj_Fun: [1, 1286], Duration: 600.022713184  
+Instance: la26, Model: 1, Solver: Z3, Feasibility: unknown, Obj_Fun: [1, 1218], Duration: 600.028678179  
+Instance: la25, Model: 1, Solver: Z3, Feasibility: sat, Obj_Fun: [977], Duration: 283.238582134  
+Instance: la24, Model: 1, Solver: Z3, Feasibility: sat, Obj_Fun: [935], Duration: 228.260862827  
+Instance: la01, Model: 1, Solver: Z3, Feasibility: sat, Obj_Fun: [666], Duration: 0.238157987595  
+Instance: ta08, Model: 1, Solver: Z3, Feasibility: sat, Obj_Fun: [1217], Duration: 372.570374966  
+Instance: la03, Model: 1, Solver: Z3, Feasibility: sat, Obj_Fun: [597], Duration: 0.261956930161  
+Instance: la28, Model: 1, Solver: Z3, Feasibility: unknown, Obj_Fun: [1, 1241], Duration: 600.035914898  
+Instance: la05, Model: 1, Solver: Z3, Feasibility: sat, Obj_Fun: [593], Duration: 1.43276691437  
+Instance: la04, Model: 1, Solver: Z3, Feasibility: sat, Obj_Fun: [590], Duration: 0.173199892044  
+Instance: la07, Model: 1, Solver: Z3, Feasibility: unknown, Obj_Fun: [1, 994], Duration: 600.359042883  
+Instance: la06, Model: 1, Solver: Z3, Feasibility: unknown, Obj_Fun: [1, 1052], Duration: 601.792934895  
+Instance: orb02, Model: 1, Solver: Z3, Feasibility: sat, Obj_Fun: [888], Duration: 0.976788043976  
+Instance: orb03, Model: 1, Solver: Z3, Feasibility: sat, Obj_Fun: [1005], Duration: 35.9868788719  
+Instance: orb01, Model: 1, Solver: Z3, Feasibility: sat, Obj_Fun: [1059], Duration: 277.535393  
+Instance: orb06, Model: 1, Solver: Z3, Feasibility: sat, Obj_Fun: [1010], Duration: 45.5258510113  
+Instance: orb07, Model: 1, Solver: Z3, Feasibility: sat, Obj_Fun: [397], Duration: 2.27838015556  
+Instance: orb04, Model: 1, Solver: Z3, Feasibility: sat, Obj_Fun: [1005], Duration: 4.33533096313  
+Instance: orb05, Model: 1, Solver: Z3, Feasibility: sat, Obj_Fun: [887], Duration: 2.52311897278  
+Instance: swv01, Model: 1, Solver: Z3, Feasibility: unknown, Obj_Fun: [1, 1698], Duration: 600.022832155  
+Instance: orb08, Model: 1, Solver: Z3, Feasibility: sat, Obj_Fun: [899], Duration: 3.66080212593  
+Instance: orb09, Model: 1, Solver: Z3, Feasibility: sat, Obj_Fun: [934], Duration: 3.75557684898  
+Instance: swv05, Model: 1, Solver: Z3, Feasibility: unknown, Obj_Fun: [1, 1718], Duration: 600.020232916  
+Instance: swv04, Model: 1, Solver: Z3, Feasibility: unknown, Obj_Fun: [1, 1591], Duration: 600.025673151  
+Instance: ta19, Model: 1, Solver: Z3, Feasibility: unknown, Obj_Fun: [1, 1840], Duration: 600.030730963  
+Instance: la23, Model: 1, Solver: Z3, Feasibility: unknown, Obj_Fun: [1, 1032], Duration: 600.29269886  
+Instance: swv02, Model: 1, Solver: Z3, Feasibility: unknown, Obj_Fun: [1, 1649], Duration: 600.02207303  
+Instance: ta12, Model: 1, Solver: Z3, Feasibility: unknown, Obj_Fun: [1, 1417], Duration: 600.03491497  
+Instance: ta04, Model: 1, Solver: Z3, Feasibility: sat, Obj_Fun: [1175], Duration: 100.258357048  
+Instance: la22, Model: 1, Solver: Z3, Feasibility: sat, Obj_Fun: [927], Duration: 283.345150948  
+Instance: ta03, Model: 1, Solver: Z3, Feasibility: sat, Obj_Fun: [1218], Duration: 236.119306087  
+Instance: ta10, Model: 1, Solver: Z3, Feasibility: sat, Obj_Fun: [1241], Duration: 235.40722394  
+Instance: ta02, Model: 1, Solver: Z3, Feasibility: sat, Obj_Fun: [1244], Duration: 468.327214956  
+Instance: la38, Model: 1, Solver: Z3, Feasibility: unknown, Obj_Fun: [1, 1196], Duration: 600.072329044  
+Instance: ta05, Model: 1, Solver: Z3, Feasibility: unknown, Obj_Fun: [1, 1235], Duration: 600.050451994  
+Instance: ta13, Model: 1, Solver: Z3, Feasibility: unknown, Obj_Fun: [1, 1392], Duration: 600.032495022  
+Instance: la19, Model: 1, Solver: Z3, Feasibility: sat, Obj_Fun: [842], Duration: 0.601243972778  
+Instance: swv03, Model: 1, Solver: Z3, Feasibility: unknown, Obj_Fun: [1, 1534], Duration: 600.040821075  
+Instance: la40, Model: 1, Solver: Z3, Feasibility: unknown, Obj_Fun: [1, 1225], Duration: 600.026458025  
+Instance: la30, Model: 1, Solver: Z3, Feasibility: unknown, Obj_Fun: [1, 1508], Duration: 600.03102088  
+Instance: la31, Model: 1, Solver: Z3, Feasibility: unknown, Obj_Fun: [1, 1904], Duration: 600.035449028  
+Instance: la32, Model: 1, Solver: Z3, Feasibility: unknown, Obj_Fun: [1, 2056], Duration: 600.040052891  
+Instance: la33, Model: 1, Solver: Z3, Feasibility: unknown, Obj_Fun: [1, 1890], Duration: 600.04102087  
+Instance: la34, Model: 1, Solver: Z3, Feasibility: unknown, Obj_Fun: [1, 1869], Duration: 600.038980961  
+Instance: la35, Model: 1, Solver: Z3, Feasibility: unknown, Obj_Fun: [1, 1956], Duration: 600.049980164  
+Instance: la18, Model: 1, Solver: Z3, Feasibility: sat, Obj_Fun: [848], Duration: 0.370896816254  
+Instance: la37, Model: 1, Solver: Z3, Feasibility: unknown, Obj_Fun: [1, 1410], Duration: 600.05170393  
+Instance: la16, Model: 1, Solver: Z3, Feasibility: sat, Obj_Fun: [945], Duration: 0.738662004471  
+Instance: la17, Model: 1, Solver: Z3, Feasibility: sat, Obj_Fun: [784], Duration: 0.569996833801  
+Instance: la14, Model: 1, Solver: Z3, Feasibility: unknown, Obj_Fun: [1, 1399], Duration: 600.777558088  
+Instance: la15, Model: 1, Solver: Z3, Feasibility: unknown, Obj_Fun: [1, 1301], Duration: 600.031227827  
+Instance: la12, Model: 1, Solver: Z3, Feasibility: unknown, Obj_Fun: [1, 1155], Duration: 600.214055061  
+Instance: la13, Model: 1, Solver: Z3, Feasibility: unknown, Obj_Fun: [1, 1274], Duration: 600.033066988  
+Instance: la10, Model: 1, Solver: Z3, Feasibility: unknown, Obj_Fun: [1, 1053], Duration: 600.353780985  
+Instance: la11, Model: 1, Solver: Z3, Feasibility: unknown, Obj_Fun: [1, 1232], Duration: 600.052232027  
+Instance: orb10, Model: 1, Solver: Z3, Feasibility: sat, Obj_Fun: [944], Duration: 2.73590803146  
+Instance: ta15, Model: 1, Solver: Z3, Feasibility: unknown, Obj_Fun: [1, 1403], Duration: 600.037801027  
+Instance: la39, Model: 1, Solver: Z3, Feasibility: sat, Obj_Fun: [1233], Duration: 111.794010878  
+Instance: la29, Model: 1, Solver: Z3, Feasibility: unknown, Obj_Fun: [1, 1211], Duration: 600.037330151  
+
+NEW SMT-TEST
+Instance: ta06, Model: 1, Solver: Opti, Feasibility: unknown, Obj_Fun: [], Duration: 600.217643976  
+Instance: ta17, Model: 1, Solver: Opti, Feasibility: unknown, Obj_Fun: [], Duration: 600.205967188  
+Instance: la02, Model: 1, Solver: Opti, Feasibility: sat, Obj_Fun: [655], Duration: 6.75943899155  
+Instance: ta11, Model: 1, Solver: Opti, Feasibility: unknown, Obj_Fun: [], Duration: 600.214010954  
+Instance: ta20, Model: 1, Solver: Opti, Feasibility: unknown, Obj_Fun: [], Duration: 600.17219305  
+Instance: ta18, Model: 1, Solver: Opti, Feasibility: unknown, Obj_Fun: [], Duration: 600.173524141  
+Instance: ta01, Model: 1, Solver: Opti, Feasibility: unknown, Obj_Fun: [], Duration: 600.173223972  
+Instance: ta14, Model: 1, Solver: Opti, Feasibility: unknown, Obj_Fun: [], Duration: 600.188395977  
+Instance: la36, Model: 1, Solver: Opti, Feasibility: unknown, Obj_Fun: [], Duration: 600.193315983  
+Instance: ta07, Model: 1, Solver: Opti, Feasibility: unknown, Obj_Fun: [], Duration: 600.200080872  
+Instance: ta16, Model: 1, Solver: Opti, Feasibility: unknown, Obj_Fun: [], Duration: 600.200305939  
+Instance: ta09, Model: 1, Solver: Opti, Feasibility: unknown, Obj_Fun: [], Duration: 600.189348936  
+Instance: la09, Model: 1, Solver: Opti, Feasibility: unknown, Obj_Fun: [], Duration: 600.189028978  
+Instance: la08, Model: 1, Solver: Opti, Feasibility: unknown, Obj_Fun: [], Duration: 600.190637112  
+Instance: la21, Model: 1, Solver: Opti, Feasibility: unknown, Obj_Fun: [], Duration: 600.204642057  
+Instance: la20, Model: 1, Solver: Opti, Feasibility: sat, Obj_Fun: [902], Duration: 77.1128480434  
+Instance: la27, Model: 1, Solver: Opti, Feasibility: unknown, Obj_Fun: [], Duration: 600.211070061  
+Instance: la26, Model: 1, Solver: Opti, Feasibility: unknown, Obj_Fun: [], Duration: 600.190860033  
+Instance: la25, Model: 1, Solver: Opti, Feasibility: unknown, Obj_Fun: [], Duration: 600.205760956  
+Instance: la24, Model: 1, Solver: Opti, Feasibility: unknown, Obj_Fun: [], Duration: 600.188396931  
+Instance: la01, Model: 1, Solver: Opti, Feasibility: sat, Obj_Fun: [666], Duration: 16.7762329578  
+Instance: ta08, Model: 1, Solver: Opti, Feasibility: unknown, Obj_Fun: [], Duration: 600.235537052  
+Instance: la03, Model: 1, Solver: Opti, Feasibility: sat, Obj_Fun: [597], Duration: 41.3360919952  
+Instance: la28, Model: 1, Solver: Opti, Feasibility: unknown, Obj_Fun: [], Duration: 600.212557077  
+Instance: la05, Model: 1, Solver: Opti, Feasibility: sat, Obj_Fun: [593], Duration: 22.8114459515  
+Instance: la04, Model: 1, Solver: Opti, Feasibility: sat, Obj_Fun: [590], Duration: 19.7904019356  
+Instance: la07, Model: 1, Solver: Opti, Feasibility: unknown, Obj_Fun: [], Duration: 600.208045959  
+Instance: la06, Model: 1, Solver: Opti, Feasibility: unknown, Obj_Fun: [], Duration: 600.219349861  
+Instance: orb02, Model: 1, Solver: Opti, Feasibility: sat, Obj_Fun: [888], Duration: 192.252075911  
+Instance: orb03, Model: 1, Solver: Opti, Feasibility: unknown, Obj_Fun: [], Duration: 600.206820965  
+Instance: orb01, Model: 1, Solver: Opti, Feasibility: unknown, Obj_Fun: [], Duration: 600.202490091  
+Instance: orb06, Model: 1, Solver: Opti, Feasibility: unknown, Obj_Fun: [], Duration: 600.221322775  
+Instance: orb07, Model: 1, Solver: Opti, Feasibility: sat, Obj_Fun: [397], Duration: 148.198577166  
+Instance: orb04, Model: 1, Solver: Opti, Feasibility: sat, Obj_Fun: [1005], Duration: 359.695502043  
+Instance: orb05, Model: 1, Solver: Opti, Feasibility: sat, Obj_Fun: [887], Duration: 197.754723787  
+Instance: swv01, Model: 1, Solver: Opti, Feasibility: unknown, Obj_Fun: [], Duration: 600.220664978  
+Instance: orb08, Model: 1, Solver: Opti, Feasibility: sat, Obj_Fun: [899], Duration: 523.636914015  
+Instance: orb09, Model: 1, Solver: Opti, Feasibility: sat, Obj_Fun: [934], Duration: 417.758008957  
+Instance: swv05, Model: 1, Solver: Opti, Feasibility: unknown, Obj_Fun: [], Duration: 600.207928181  
+Instance: swv04, Model: 1, Solver: Opti, Feasibility: unknown, Obj_Fun: [], Duration: 600.20363307  
+Instance: ta19, Model: 1, Solver: Opti, Feasibility: unknown, Obj_Fun: [], Duration: 600.205529928  
+Instance: la23, Model: 1, Solver: Opti, Feasibility: unknown, Obj_Fun: [], Duration: 600.216509104  
+Instance: swv02, Model: 1, Solver: Opti, Feasibility: unknown, Obj_Fun: [], Duration: 600.218018055  
+Instance: ta12, Model: 1, Solver: Opti, Feasibility: unknown, Obj_Fun: [], Duration: 600.19975996  
+Instance: ta04, Model: 1, Solver: Opti, Feasibility: unknown, Obj_Fun: [], Duration: 600.202409983  
+Instance: la22, Model: 1, Solver: Opti, Feasibility: unknown, Obj_Fun: [], Duration: 600.001397848  
+Instance: ta03, Model: 1, Solver: Opti, Feasibility: unknown, Obj_Fun: [], Duration: 600.217136145  
+Instance: ta10, Model: 1, Solver: Opti, Feasibility: unknown, Obj_Fun: [], Duration: 600.222071886  
+Instance: ta02, Model: 1, Solver: Opti, Feasibility: unknown, Obj_Fun: [], Duration: 600.219216824  
+Instance: la38, Model: 1, Solver: Opti, Feasibility: unknown, Obj_Fun: [], Duration: 600.223830938  
+Instance: ta05, Model: 1, Solver: Opti, Feasibility: unknown, Obj_Fun: [], Duration: 600.209779978  
+Instance: ta13, Model: 1, Solver: Opti, Feasibility: unknown, Obj_Fun: [], Duration: 600.230184078  
+Instance: la19, Model: 1, Solver: Opti, Feasibility: sat, Obj_Fun: [842], Duration: 318.386847973  
+Instance: swv03, Model: 1, Solver: Opti, Feasibility: unknown, Obj_Fun: [], Duration: 600.219377041  
+Instance: la40, Model: 1, Solver: Opti, Feasibility: unknown, Obj_Fun: [], Duration: 600.213169098  
+Instance: la30, Model: 1, Solver: Opti, Feasibility: unknown, Obj_Fun: [], Duration: 600.20904398  
+Instance: la31, Model: 1, Solver: Opti, Feasibility: unknown, Obj_Fun: [], Duration: 600.203037977  
+Instance: la32, Model: 1, Solver: Opti, Feasibility: unknown, Obj_Fun: [], Duration: 600.21598506  
+Instance: la33, Model: 1, Solver: Opti, Feasibility: unknown, Obj_Fun: [], Duration: 600.246021032  
+Instance: la34, Model: 1, Solver: Opti, Feasibility: unknown, Obj_Fun: [], Duration: 600.24454689  
+Instance: la35, Model: 1, Solver: Opti, Feasibility: unknown, Obj_Fun: [], Duration: 600.232110977  
+Instance: la18, Model: 1, Solver: Opti, Feasibility: sat, Obj_Fun: [848], Duration: 288.125701904  
+Instance: la37, Model: 1, Solver: Opti, Feasibility: unknown, Obj_Fun: [], Duration: 600.216295958  
+Instance: la16, Model: 1, Solver: Opti, Feasibility: sat, Obj_Fun: [945], Duration: 238.811747074  
+Instance: la17, Model: 1, Solver: Opti, Feasibility: sat, Obj_Fun: [784], Duration: 277.347011089  
+Instance: la14, Model: 1, Solver: Opti, Feasibility: unknown, Obj_Fun: [], Duration: 600.218295097  
+Instance: la15, Model: 1, Solver: Opti, Feasibility: unknown, Obj_Fun: [], Duration: 600.231415987  
+Instance: la12, Model: 1, Solver: Opti, Feasibility: unknown, Obj_Fun: [], Duration: 600.23018384  
+Instance: la13, Model: 1, Solver: Opti, Feasibility: unknown, Obj_Fun: [], Duration: 600.211221218  
+Instance: la10, Model: 1, Solver: Opti, Feasibility: unknown, Obj_Fun: [], Duration: 600.223325968  
+Instance: la11, Model: 1, Solver: Opti, Feasibility: unknown, Obj_Fun: [], Duration: 600.208106041  
+Instance: orb10, Model: 1, Solver: Opti, Feasibility: unknown, Obj_Fun: [], Duration: 600.210024834  
+Instance: ta15, Model: 1, Solver: Opti, Feasibility: unknown, Obj_Fun: [], Duration: 600.221731901  
+Instance: la39, Model: 1, Solver: Opti, Feasibility: unknown, Obj_Fun: [], Duration: 600.217478037  
+Instance: la29, Model: 1, Solver: Opti, Feasibility: unknown, Obj_Fun: [], Duration: 600.204932928  
+
+NEW TEST
+Instance: ta06, Model: 1, Feasibility: 9, Obj_Fun: 1304.0, Duration: 600.134081841  
+Instance: ta17, Model: 1, Feasibility: 9, Obj_Fun: 1646.0, Duration: 600.126080036  
+Instance: la02, Model: 1, Feasibility: 2, Obj_Fun: 655.0, Duration: 25.8679630756  
+Instance: ta11, Model: 1, Feasibility: 9, Obj_Fun: 1596.0, Duration: 600.16224885  
+Instance: ta20, Model: 1, Feasibility: 9, Obj_Fun: 1557.0, Duration: 600.138030052  
+Instance: ta18, Model: 1, Feasibility: 9, Obj_Fun: 1668.0, Duration: 600.101866961  
+Instance: ta01, Model: 1, Feasibility: 9, Obj_Fun: 1311.0, Duration: 600.166125059  
+Instance: ta14, Model: 1, Feasibility: 9, Obj_Fun: 1497.0, Duration: 601.03451395  
+Instance: la36, Model: 1, Feasibility: 9, Obj_Fun: 1353.0, Duration: 600.687951088  
+Instance: ta07, Model: 1, Feasibility: 9, Obj_Fun: 1280.0, Duration: 600.20618701  
+Instance: ta16, Model: 1, Feasibility: 9, Obj_Fun: 1567.0, Duration: 600.13598299  
+Instance: ta09, Model: 1, Feasibility: 9, Obj_Fun: 1335.0, Duration: 600.138111115  
+Instance: la09, Model: 1, Feasibility: 9, Obj_Fun: 951.0, Duration: 600.102183819  
+Instance: la08, Model: 1, Feasibility: 9, Obj_Fun: 863.0, Duration: 600.130660057  
+Instance: la21, Model: 1, Feasibility: 9, Obj_Fun: 1095.0, Duration: 600.109982967  
+Instance: la20, Model: 1, Feasibility: 2, Obj_Fun: 902.0, Duration: 11.857585907  
+Instance: la27, Model: 1, Feasibility: 9, Obj_Fun: 1407.0, Duration: 600.32607007  
+Instance: la26, Model: 1, Feasibility: 9, Obj_Fun: 1305.0, Duration: 600.154242039  
+Instance: la25, Model: 1, Feasibility: 9, Obj_Fun: 1007.0, Duration: 600.292841911  
+Instance: la24, Model: 1, Feasibility: 9, Obj_Fun: 946.0, Duration: 600.138087034  
+Instance: la01, Model: 1, Feasibility: 2, Obj_Fun: 666.0, Duration: 30.9741439819  
+Instance: ta08, Model: 1, Feasibility: 9, Obj_Fun: 1277.0, Duration: 600.131834984  
+Instance: la03, Model: 1, Feasibility: 2, Obj_Fun: 597.0, Duration: 6.40746498108  
+Instance: la28, Model: 1, Feasibility: 9, Obj_Fun: 1374.0, Duration: 600.107839108  
+Instance: la05, Model: 1, Feasibility: 2, Obj_Fun: 593.0, Duration: 33.5637831688  
+Instance: la04, Model: 1, Feasibility: 2, Obj_Fun: 590.0, Duration: 6.49006509781  
+Instance: la07, Model: 1, Feasibility: 9, Obj_Fun: 890.0, Duration: 600.354135036  
+Instance: la06, Model: 1, Feasibility: 9, Obj_Fun: 926.0, Duration: 600.115805864  
+Instance: orb02, Model: 1, Feasibility: 2, Obj_Fun: 888.0, Duration: 12.9340090752  
+Instance: orb03, Model: 1, Feasibility: 9, Obj_Fun: 1031.0, Duration: 600.118113995  
+Instance: orb01, Model: 1, Feasibility: 9, Obj_Fun: 1073.0, Duration: 600.131771088  
+Instance: orb06, Model: 1, Feasibility: 9, Obj_Fun: 1028.0, Duration: 600.156986952  
+Instance: orb07, Model: 1, Feasibility: 2, Obj_Fun: 397.0, Duration: 38.5740571022  
+Instance: orb04, Model: 1, Feasibility: 2, Obj_Fun: 1005.0, Duration: 198.410131931  
+Instance: orb05, Model: 1, Feasibility: 2, Obj_Fun: 887.0, Duration: 38.530133009  
+Instance: swv01, Model: 1, Feasibility: 9, Obj_Fun: 1837.0, Duration: 600.398119926  
+Instance: orb08, Model: 1, Feasibility: 2, Obj_Fun: 899.0, Duration: 203.141047001  
+Instance: orb09, Model: 1, Feasibility: 2, Obj_Fun: 934.0, Duration: 120.790025949  
+Instance: swv05, Model: 1, Feasibility: 9, Obj_Fun: 1824.0, Duration: 600.189899921  
+Instance: swv04, Model: 1, Feasibility: 9, Obj_Fun: 1752.0, Duration: 600.110166073  
+Instance: ta19, Model: 1, Feasibility: 9, Obj_Fun: 1579.0, Duration: 600.302742004  
+Instance: la23, Model: 1, Feasibility: 9, Obj_Fun: 1036.0, Duration: 600.126045942  
+Instance: swv02, Model: 1, Feasibility: 9, Obj_Fun: 1831.0, Duration: 600.187296867  
+Instance: ta12, Model: 1, Feasibility: 9, Obj_Fun: 1596.0, Duration: 600.159825087  
+Instance: ta04, Model: 1, Feasibility: 9, Obj_Fun: 1214.0, Duration: 600.103810787  
+Instance: la22, Model: 1, Feasibility: 9, Obj_Fun: 938.0, Duration: 600.115741014  
+Instance: ta03, Model: 1, Feasibility: 9, Obj_Fun: 1332.0, Duration: 600.210082054  
+Instance: ta10, Model: 1, Feasibility: 9, Obj_Fun: 1307.0, Duration: 600.111808062  
+Instance: ta02, Model: 1, Feasibility: 9, Obj_Fun: 1312.0, Duration: 600.259850025  
+Instance: la38, Model: 1, Feasibility: 9, Obj_Fun: 1268.0, Duration: 600.302133083  
+Instance: ta05, Model: 1, Feasibility: 9, Obj_Fun: 1283.0, Duration: 600.205970049  
+Instance: ta13, Model: 1, Feasibility: 9, Obj_Fun: 1572.0, Duration: 600.091039896  
+Instance: la19, Model: 1, Feasibility: 2, Obj_Fun: 842.0, Duration: 31.8700530529  
+Instance: swv03, Model: 1, Feasibility: 9, Obj_Fun: 1768.0, Duration: 600.102068186  
+Instance: la40, Model: 1, Feasibility: 9, Obj_Fun: 1276.0, Duration: 600.147799969  
+Instance: la30, Model: 1, Feasibility: 9, Obj_Fun: 1436.0, Duration: 600.949896812  
+Instance: la31, Model: 1, Feasibility: 9, Obj_Fun: 2045.0, Duration: 600.135308981  
+Instance: la32, Model: 1, Feasibility: 9, Obj_Fun: 1978.0, Duration: 600.19588995  
+Instance: la33, Model: 1, Feasibility: 9, Obj_Fun: 1978.0, Duration: 600.918009996  
+Instance: la34, Model: 1, Feasibility: 9, Obj_Fun: 1980.0, Duration: 600.261701822  
+Instance: la35, Model: 1, Feasibility: 9, Obj_Fun: 2118.0, Duration: 600.177742958  
+Instance: la18, Model: 1, Feasibility: 2, Obj_Fun: 848.0, Duration: 9.19497895241  
+Instance: la37, Model: 1, Feasibility: 9, Obj_Fun: 1495.0, Duration: 601.0779109  
+Instance: la16, Model: 1, Feasibility: 2, Obj_Fun: 945.0, Duration: 63.0377130508  
+Instance: la17, Model: 1, Feasibility: 2, Obj_Fun: 784.0, Duration: 9.10997605324  
+Instance: la14, Model: 1, Feasibility: 9, Obj_Fun: 1292.0, Duration: 600.10723114  
+Instance: la15, Model: 1, Feasibility: 9, Obj_Fun: 1207.0, Duration: 600.120447159  
+Instance: la12, Model: 1, Feasibility: 9, Obj_Fun: 1039.0, Duration: 600.127939939  
+Instance: la13, Model: 1, Feasibility: 9, Obj_Fun: 1150.0, Duration: 600.163916111  
+Instance: la10, Model: 1, Feasibility: 9, Obj_Fun: 958.0, Duration: 600.157821178  
+Instance: la11, Model: 1, Feasibility: 9, Obj_Fun: 1222.0, Duration: 600.103884935  
+Instance: orb10, Model: 1, Feasibility: 2, Obj_Fun: 944.0, Duration: 30.3826880455  
+Instance: ta15, Model: 1, Feasibility: 9, Obj_Fun: 1572.0, Duration: 600.102795124  
+Instance: la39, Model: 1, Feasibility: 9, Obj_Fun: 1278.0, Duration: 600.169879913  
+Instance: la29, Model: 1, Feasibility: 9, Obj_Fun: 1315.0, Duration: 600.166061878  
+
+NEW SMT-TEST
+Instance: sfr02, Model: 5, Solver: Z3, Feasibility: sat, Obj_Fun: [53], Duration: 4.55347490311  
+Instance: sfr03, Model: 5, Solver: Z3, Feasibility: sat, Obj_Fun: [31], Duration: 1.32437610626  
+Instance: sfr13, Model: 5, Solver: Z3, Feasibility: sat, Obj_Fun: [77], Duration: 133.968353033  
+Instance: sfr01, Model: 5, Solver: Z3, Feasibility: sat, Obj_Fun: [42], Duration: 3.70192599297  
+Instance: sfr06, Model: 5, Solver: Z3, Feasibility: sat, Obj_Fun: [75], Duration: 25.6160092354  
+Instance: sfr07, Model: 5, Solver: Z3, Feasibility: sat, Obj_Fun: [60], Duration: 24.9846391678  
+Instance: sfr04, Model: 5, Solver: Z3, Feasibility: sat, Obj_Fun: [41], Duration: 5.62515497208  
+Instance: sfr05, Model: 5, Solver: Z3, Feasibility: sat, Obj_Fun: [35], Duration: 5.20903587341  
+Instance: sfr19, Model: 5, Solver: Z3, Feasibility: unknown, Obj_Fun: [1, 217], Duration: 607.411643028  
+Instance: sfr18, Model: 5, Solver: Z3, Feasibility: unknown, Obj_Fun: [1, 373], Duration: 607.707064152  
+Instance: sfr08, Model: 5, Solver: Z3, Feasibility: sat, Obj_Fun: [61], Duration: 33.92674613  
+Instance: sfr09, Model: 5, Solver: Z3, Feasibility: sat, Obj_Fun: [62], Duration: 31.5750291348  
+Instance: sfr20, Model: 5, Solver: Z3, Feasibility: sat, Obj_Fun: [88], Duration: 562.885357141  
+Instance: sfr17, Model: 5, Solver: Z3, Feasibility: sat, Obj_Fun: [88], Duration: 495.851931095  
+Instance: sfr16, Model: 5, Solver: Z3, Feasibility: unknown, Obj_Fun: [1, 242], Duration: 606.762824059  
+Instance: sfr15, Model: 5, Solver: Z3, Feasibility: sat, Obj_Fun: [79], Duration: 163.877795935  
+Instance: sfr12, Model: 5, Solver: Z3, Feasibility: sat, Obj_Fun: [65], Duration: 101.791012049  
+Instance: sfr10, Model: 5, Solver: Z3, Feasibility: sat, Obj_Fun: [62], Duration: 55.0329258442  
+Instance: sfr11, Model: 5, Solver: Z3, Feasibility: sat, Obj_Fun: [86], Duration: 210.589879036  
+Instance: sfr14, Model: 5, Solver: Z3, Feasibility: sat, Obj_Fun: [103], Duration: 257.298463821  
+
+NEW SMT-TEST
+Instance: sfr28, Model: 5, Solver: Z3, Feasibility: unknown, Obj_Fun: [1], Duration: 651.274976969  
+Instance: sfr29, Model: 5, Solver: Z3, Feasibility: unknown, Obj_Fun: [1, 645], Duration: 630.058326006  
+Instance: sfr32, Model: 5, Solver: Z3, Feasibility: unknown, Obj_Fun: [1], Duration: 1061.42128611  
+
+NEW SMT-TEST
+Instance: ta16, Model: 1, Solver: Z3, Feasibility: unknown, Obj_Fun: [1, 1405], Duration: 3600.04428506
+
+
+########################################## DATA FOR TASE PAPER ###################################################
+
+windows tests
+
+
+NEW SMT-TEST
+sfr01, z3, ds, None, sat, 42, 0.062490224838256836  
+sfr02, z3, ds, None, sat, 53, 0.046883583068847656  
+sfr03, z3, ds, None, sat, 31, 0.062494516372680664  
+sfr04, z3, ds, None, sat, 41, 0.031227588653564453  
+sfr05, z3, ds, None, sat, 35, 0.04687237739562988  
+sfr06, z3, ds, None, sat, 75, 0.0312504768371582  
+sfr07, z3, ds, None, sat, 60, 0.04687929153442383  
+sfr08, z3, ds, None, sat, 61, 0.04687190055847168  
+sfr09, z3, ds, None, sat, 62, 0.04688262939453125  
+sfr10, z3, ds, None, sat, 62, 0.04687380790710449  
+sfr11, z3, ds, None, sat, 86, 0.06249594688415527  
+sfr12, z3, ds, None, sat, 65, 0.06247210502624512  
+sfr13, z3, ds, None, sat, 77, 0.07808947563171387  
+sfr14, z3, ds, None, sat, 103, 0.07810854911804199  
+sfr15, z3, ds, None, sat, 79, 0.0468752384185791  
+sfr16, z3, ds, None, sat, 95, 0.09373807907104492  
+sfr17, z3, ds, None, sat, 88, 0.07811903953552246  
+sfr18, z3, ds, None, sat, 102, 0.109375  
+sfr19, z3, ds, None, sat, 110, 0.10936784744262695  
+sfr20, z3, ds, None, sat, 88, 0.10935425758361816  
+sfr21, z3, ds, None, sat, 104, 0.1875154972076416  
+sfr22, z3, ds, None, sat, 110, 0.14062261581420898  
+sfr23, z3, ds, None, sat, 135, 0.5155847072601318  
+sfr24, z3, ds, None, sat, 110, 0.18749690055847168  
+sfr25, z3, ds, None, sat, 101, 0.1718430519104004  
+sfr26, z3, ds, None, sat, 128, 0.515580415725708  
+sfr27, z3, ds, None, sat, 147, 0.4530816078186035  
+sfr28, z3, ds, None, sat, 135, 0.40621042251586914  
+sfr29, z3, ds, None, sat, 117, 0.34374356269836426  
+sfr30, z3, ds, None, sat, 126, 0.48432135581970215  
+sfr31, z3, ds, None, sat, 154, 0.28124165534973145  
+sfr32, z3, ds, None, sat, 156, 0.24995851516723633  
+sfr33, z3, ds, None, sat, 148, 0.37499070167541504  
+sfr34, z3, ds, None, sat, 144, 0.3437471389770508  
+sfr35, z3, ds, None, sat, 157, 0.39061641693115234  
+
+NEW SMT-TEST
+sfr01, Opti, ds, None, sat, 42, 0.25009584426879883  
+sfr02, Opti, ds, None, sat, 53, 0.2500951290130615  
+sfr03, Opti, ds, None, sat, 31, 0.26573657989501953  
+sfr04, Opti, ds, None, sat, 41, 0.25008344650268555  
+sfr05, Opti, ds, None, sat, 35, 0.2656285762786865  
+sfr06, Opti, ds, None, sat, 75, 0.2655930519104004  
+sfr07, Opti, ds, None, sat, 60, 0.2812168598175049  
+sfr08, Opti, ds, None, sat, 61, 0.25008344650268555  
+sfr09, Opti, ds, None, sat, 62, 0.25013113021850586  
+sfr10, Opti, ds, None, sat, 62, 0.25009822845458984  
+sfr11, Opti, ds, None, sat, 86, 0.25008130073547363  
+sfr12, Opti, ds, None, sat, 65, 0.26578855514526367  
+sfr13, Opti, ds, None, sat, 77, 0.5312891006469727  
+sfr14, Opti, ds, None, sat, 103, 0.5314040184020996  
+sfr15, Opti, ds, None, sat, 79, 0.5157909393310547  
+sfr16, Opti, ds, None, sat, 95, 0.7813310623168945  
+sfr17, Opti, ds, None, sat, 88, 1.312607765197754  
+sfr18, Opti, ds, None, sat, 102, 0.7813384532928467  
+sfr19, Opti, ds, None, sat, 110, 1.0469439029693604  
+sfr20, Opti, ds, None, sat, 88, 1.0157389640808105  
+sfr21, Opti, ds, None, sat, 104, 6.5841803550720215  
+sfr22, Opti, ds, None, sat, 110, 3.109471082687378  
+sfr23, Opti, ds, None, sat, 135, 2.828223943710327  
+sfr24, Opti, ds, None, sat, 110, 3.6093368530273438  
+sfr25, Opti, ds, None, sat, 101, 2.843818426132202  
+sfr26, Opti, ds, None, sat, 128, 8.037753582000732  
+sfr27, Opti, ds, None, sat, 147, 8.812417268753052  
+sfr28, Opti, ds, None, sat, 135, 10.15565037727356  
+sfr29, Opti, ds, None, sat, 117, 10.593619585037231  
+sfr30, Opti, ds, None, sat, 126, 7.20310378074646  
+sfr31, Opti, ds, None, sat, 154, 19.13428831100464  
+sfr32, Opti, ds, None, sat, 156, 17.405372381210327  
+sfr33, Opti, ds, None, sat, 148, 22.984013557434082  
+sfr34, Opti, ds, None, sat, 144, 20.99964666366577  
+sfr35, Opti, ds, None, sat, 157, 25.905725240707397  
+
+NEW SMT-TEST
+sfr01, Opti, bv, 44, sat, 42, 0.250119686126709  
+sfr02, Opti, bv, 76, sat, 53, 0.26558518409729004  
+sfr03, Opti, bv, 37, sat, 31, 0.265669584274292  
+sfr04, Opti, bv, 43, sat, 41, 0.2500936985015869  
+sfr05, Opti, bv, 37, sat, 35, 0.2500004768371582  
+sfr06, Opti, bv, 86, sat, 75, 0.5157556533813477  
+sfr07, Opti, bv, 84, sat, 60, 0.265643835067749  
+sfr08, Opti, bv, 68, sat, 61, 0.26570701599121094  
+sfr09, Opti, bv, 64, sat, 62, 0.25002074241638184  
+sfr10, Opti, bv, 68, sat, 62, 0.5313072204589844  
+sfr11, Opti, bv, 99, sat, 86, 1.578216791152954  
+sfr12, Opti, bv, 73, sat, 65, 0.5314013957977295  
+sfr13, Opti, bv, 93, sat, 77, 2.078221082687378  
+sfr14, Opti, bv, 106, sat, 103, 1.2813785076141357  
+sfr15, Opti, bv, 85, sat, 79, 1.3126344680786133  
+sfr16, Opti, bv, 108, sat, 95, 3.0782485008239746  
+sfr17, Opti, bv, 101, sat, 88, 1.3126192092895508  
+sfr18, Opti, bv, 110, sat, 102, 2.625131607055664  
+sfr19, Opti, bv, 117, sat, 110, 4.140716552734375  
+sfr20, Opti, bv, 94, sat, 88, 2.3438656330108643  
+sfr21, Opti, bv, 122, sat, 104, 10.078227043151855  
+sfr22, Opti, bv, 127, sat, 110, 5.437597036361694  
+sfr23, Opti, bv, 150, sat, 135, 51.093754053115845  
+sfr24, Opti, bv, 142, sat, 110, 15.312580823898315  
+sfr25, Opti, bv, 136, sat, 101, 14.50010895729065  
+sfr26, Opti, bv, 153, sat, 128, 52.882922649383545  
+sfr27, Opti, bv, 168, sat, 147, 26.50006127357483  
+sfr28, Opti, bv, 181, sat, 135, 127.01121592521667  
+sfr29, Opti, bv, 144, sat, 117, 33.99819993972778  
+sfr30, Opti, bv, 134, sat, 126, 11.40629529953003  
+sfr31, Opti, bv, 204, sat, 154, 302.4057586193085  
+sfr32, Opti, bv, 197, sat, 156, 148.14422512054443  
+sfr33, Opti, bv, 168, sat, 148, 177.27100086212158  
+sfr34, Opti, bv, 185, sat, 144, 197.02790784835815  
+sfr35, Opti, bv, 201, sat, 157, 589.1755831241608  
+
+
+
+
+NEW SMT-TEST
+sfr01, z3, bv, 44, sat, 42, 0.2656238079071045  
+sfr02, z3, bv, 58, sat, 53, 0.6093645095825195  
+sfr03, z3, bv, 33, sat, 31, 0.17187285423278809  
+sfr04, z3, bv, 43, sat, 41, 0.20316314697265625  
+sfr05, z3, bv, 37, sat, 35, 0.20313501358032227  
+sfr06, z3, bv, 88, sat, 75, 2.343681573867798  
+sfr07, z3, bv, 62, sat, 60, 1.0624208450317383  
+sfr08, z3, bv, 63, sat, 61, 0.999967098236084  
+sfr09, z3, bv, 64, sat, 62, 0.9374818801879883  
+sfr10, z3, bv, 78, sat, 62, 1.828005075454712  
+sfr11, z3, bv, 119, sat, 98, 17.1832115650177  
+sfr12, z3, bv, 73, sat, 65, 2.8545265197753906  
+sfr13, z3, bv, 93, sat, 77, 10.06288194656372  
+sfr14, z3, bv, 116, sat, 103, 10.960309028625488  
+sfr15, z3, bv, 85, sat, 79, 5.450716733932495  
+sfr16, z3, bv, 117, sat, 95, 32.89887189865112  
+sfr17, z3, bv, 101, sat, 88, 12.26836633682251  
+sfr18, z3, bv, 104, sat, 102, 12.3707275390625  
+sfr19, z3, bv, 128, sat, 110, 33.294557094573975  
+sfr20, z3, bv, 93, sat, 88, 9.328172445297241  
+sfr21, z3, bv, 122, sat, 104, 96.93371868133545
+sfr22, z3, bv, 140, sat, 119, 227.9540033340454
+sfr23, z3, bv, 150, sat, 135, 106.89572191238403
+sfr24, z3, bv, 142, sat, 121, 152.44933819770813
+sfr25, z3, bv, 133, sat, 113, 127.4283378124237
+sfr26, z3, bv, 164, unknown, None, 1200.2021081447601
+sfr27, z3, bv, 170, unknown, None, 1200.2023949623108
+sfr28, z3, bv, 163, sat, 143, 869.1575548648834
+sfr29, z3, bv, 155, sat, 135, 1097.7139415740967
+sfr30, z3, bv, 156, sat, 136, 592.392737865448
+sfr31, z3, bv, 174, unknown, None, 1200.2960488796234
+sfr32, z3, bv, 193, unknown, None, 1270.2909786701202
+sfr33, z3, bv, 217, unknown, None, 1200.5271418094635
+sfr34, z3, bv, 184, unknown, None, 1200.3033833503723
+sfr35, z3, bv, 184, unknown, None, 1200.3362562656403
+
+NEW SMT-TEST
+sfr01, z3, ti, 42, sat, 42, 0.14719581604003906  
+sfr02, z3, ti, 56, sat, 53, 0.47948741912841797  
+sfr03, z3, ti, 35, sat, 31, 0.12246823310852051  
+sfr04, z3, ti, 41, sat, 41, 0.1693413257598877  
+sfr05, z3, ti, 35, sat, 35, 0.13154315948486328  
+sfr06, z3, ti, 75, sat, 75, 2.0671615600585938  
+sfr07, z3, ti, 82, sat, 60, 1.9550657272338867  
+sfr08, z3, ti, 66, sat, 61, 1.6508159637451172  
+sfr09, z3, ti, 62, sat, 62, 0.65395188331604  
+sfr10, z3, ti, 71, sat, 62, 3.331289768218994  
+sfr11, z3, ti, 98, sat, 86, 12.793160200119019  
+sfr12, z3, ti, 83, sat, 65, 4.528309345245361  
+sfr13, z3, ti, 81, sat, 77, 9.946913957595825  
+sfr14, z3, ti, 120, sat, 103, 19.552049160003662  
+sfr15, z3, ti, 83, sat, 79, 4.712812185287476  
+sfr16, z3, ti, 110, sat, 95, 45.54331374168396  
+sfr17, z3, ti, 89, sat, 88, 9.874269485473633  
+sfr18, z3, ti, 106, sat, 102, 8.10236930847168  
+sfr19, z3, ti, 127, sat, 110, 92.66481757164001  
+sfr20, z3, ti, 92, sat, 88, 18.732105016708374
+sfr21, z3, ti, 117, sat, 104, 58.8516788482666
+sfr22, z3, ti, 137, sat, 110, 78.71733045578003
+sfr23, z3, ti, 143, sat, 135, 327.40302324295044
+sfr24, z3, ti, 136, sat, 110, 95.82998824119568
+sfr25, z3, ti, 130, sat, 101, 59.176655769348145
+sfr26, z3, ti, 169, sat, 128, 530.7409489154816
+sfr27, z3, ti, 168, sat, 147, 581.43199634552
+sfr28, z3, ti, 182, sat, 135, 1199.437922000885
+sfr29, z3, ti, 126, sat, 117, 155.33968710899353
+sfr30, z3, ti, 143, sat, 126, 194.34483003616333
+sfr31, z3, ti, 207, unknown, 1, 1308.5086951255798
+sfr32, z3, ti, 179, unknown, 1, 1289.4685666561127
+sfr33, z3, ti, 186, unknown, 1, 1300.2718744277954
+sfr34, z3, ti, 163, unknown, 1, 1277.2810130119324
+sfr35, z3, ti, 197, unknown, 1, 1306.9400382041931
+
+NEW SMT-TEST
+sfr01, Opti, ti, 42, sat, 42, 3.4097657203674316  
+sfr02, Opti, ti, 56, sat, 53, 89.58071517944336  
+sfr03, Opti, ti, 35, sat, 31, 7.3238890171051025  
+sfr04, Opti, ti, 41, sat, 41, 76.54310202598572  
+sfr05, Opti, ti, 35, sat, 35, 31.04135537147522  
+sfr06, Opti, ti, 86, unknown, [], 1200.054960012436  
+sfr07, Opti, ti, 70, unknown, [], 1200.0331377983093  
+sfr08, Opti, ti, 65, unknown, [], 1200.2162227630615  
+sfr09, Opti, ti, 62, sat, 62, 94.51190423965454  
+sfr10, Opti, ti, 76, unknown, [], 1200.2108390331268  
+sfr11, Opti, ti, 97, unknown, [], 1200.0954990386963  
+sfr12, Opti, ti, 86, unknown, [], 1200.1496844291687  
+sfr13, Opti, ti, 79, unknown, [], 1200.075779914856  
+sfr14, Opti, ti, 109, unknown, [], 1200.2314879894257  
+sfr15, Opti, ti, 83, unknown, [], 1200.2172644138336  
+sfr16, Opti, ti, 139, unknown, [], 1200.0882921218872  
+sfr17, Opti, ti, 99, unknown, [], 1200.1288788318634  
+sfr18, Opti, ti, 112, unknown, [], 1200.0706405639648  
+sfr19, Opti, ti, 121, unknown, [], 1200.164389848709  
+sfr20, Opti, ti, 92, unknown, [], 1200.0139787197113
+sfr21, Opti, ti, 110, unknown, [], 1200.157651424408  
+sfr22, Opti, ti, 126, unknown, [], 1200.133781671524  
+sfr23, Opti, ti, 140, unknown, [], 1200.0502910614014  
+sfr24, Opti, ti, 135, unknown, [], 1200.1909184455872  
+sfr25, Opti, ti, 125, unknown, [], 1200.0768477916718  
+sfr26, Opti, ti, 156, unknown, [], 1200.1041567325592  
+sfr27, Opti, ti, 168, unknown, [], 1200.205778837204  
+sfr28, Opti, ti, 168, unknown, [], 1200.1743154525757  
+sfr29, Opti, ti, 138, unknown, [], 1200.1165852546692  
+sfr30, Opti, ti, 146, unknown, [], 1200.068574666977  
+sfr31, Opti, ti, 203, unknown, [], 1200.2086799144745  
+sfr32, Opti, ti, 176, unknown, [], 1200.1362595558167  
+sfr33, Opti, ti, 189, unknown, [], 1200.0938169956207  
+sfr34, Opti, ti, 183, unknown, [], 1200.2107615470886  
+sfr35, Opti, ti, 192, unknown, [], 1200.1772072315216  
+
+linux tests
+
+
+NEW SMT-TEST
+sfr22, z3, ds, None, sat, 110, 0.07545661926269531  
+sfr01, z3, ds, None, sat, 42, 0.008577823638916016  
+sfr15, z3, ds, None, sat, 79, 0.023993492126464844  
+sfr26, z3, ds, None, sat, 128, 0.3679649829864502  
+sfr24, z3, ds, None, sat, 110, 0.1155405044555664  
+sfr07, z3, ds, None, sat, 60, 0.011078596115112305  
+sfr32, z3, ds, None, sat, 156, 0.1492304801940918  
+sfr12, z3, ds, None, sat, 65, 0.01924896240234375  
+sfr05, z3, ds, None, sat, 35, 0.009578227996826172  
+sfr02, z3, ds, None, sat, 53, 0.008868694305419922  
+sfr03, z3, ds, None, sat, 31, 0.008249044418334961  
+sfr04, z3, ds, None, sat, 41, 0.008686304092407227  
+sfr34, z3, ds, None, sat, 144, 0.2112586498260498  
+sfr06, z3, ds, None, sat, 75, 0.011556625366210938  
+sfr23, z3, ds, None, sat, 135, 0.3560292720794678  
+sfr19, z3, ds, None, sat, 110, 0.056891679763793945  
+sfr29, z3, ds, None, sat, 117, 0.2391645908355713  
+sfr18, z3, ds, None, sat, 102, 0.04621005058288574  
+sfr13, z3, ds, None, sat, 77, 0.026190996170043945  
+sfr20, z3, ds, None, sat, 88, 0.04653525352478027  
+sfr28, z3, ds, None, sat, 135, 0.28826260566711426  
+sfr08, z3, ds, None, sat, 61, 0.012799501419067383  
+sfr27, z3, ds, None, sat, 147, 0.3236536979675293  
+sfr16, z3, ds, None, sat, 95, 0.0467374324798584  
+sfr25, z3, ds, None, sat, 101, 0.09727597236633301  
+sfr30, z3, ds, None, sat, 126, 0.32741475105285645  
+sfr33, z3, ds, None, sat, 148, 0.25279688835144043  
+sfr10, z3, ds, None, sat, 62, 0.014469146728515625  
+sfr21, z3, ds, None, sat, 104, 0.1250145435333252  
+sfr17, z3, ds, None, sat, 88, 0.03557419776916504  
+sfr35, z3, ds, None, sat, 157, 0.2571432590484619  
+sfr14, z3, ds, None, sat, 103, 0.026267290115356445  
+sfr11, z3, ds, None, sat, 86, 0.020821571350097656  
+sfr31, z3, ds, None, sat, 154, 0.17899322509765625  
+sfr09, z3, ds, None, sat, 62, 0.011366605758666992  
+
+NEW SMT-TEST
+sfr22, Opti, ds, None, sat, 110, 1.7531459331512451  
+sfr01, Opti, ds, None, sat, 42, 0.2514917850494385  
+sfr15, Opti, ds, None, sat, 79, 0.25145602226257324  
+sfr26, Opti, ds, None, sat, 128, 5.7576823234558105  
+sfr24, Opti, ds, None, sat, 110, 2.5039494037628174  
+sfr07, Opti, ds, None, sat, 60, 0.2520759105682373  
+sfr32, Opti, ds, None, sat, 156, 12.26477575302124  
+sfr12, Opti, ds, None, sat, 65, 0.2515594959259033  
+sfr05, Opti, ds, None, sat, 35, 0.2514064311981201  
+sfr02, Opti, ds, None, sat, 53, 0.2514524459838867  
+sfr03, Opti, ds, None, sat, 31, 0.2516312599182129  
+sfr04, Opti, ds, None, sat, 41, 0.2513906955718994  
+sfr34, Opti, ds, None, sat, 144, 9.261474132537842  
+sfr06, Opti, ds, None, sat, 75, 0.2514464855194092  
+sfr23, Opti, ds, None, sat, 135, 1.7532098293304443  
+sfr19, Opti, ds, None, sat, 110, 0.5020260810852051  
+sfr29, Opti, ds, None, sat, 117, 5.507318496704102  
+sfr18, Opti, ds, None, sat, 102, 0.7521028518676758  
+sfr13, Opti, ds, None, sat, 77, 0.2515077590942383  
+sfr20, Opti, ds, None, sat, 88, 0.5018846988677979  
+sfr28, Opti, ds, None, sat, 135, 5.257566452026367  
+sfr08, Opti, ds, None, sat, 61, 0.251450777053833  
+sfr27, Opti, ds, None, sat, 147, 5.757405519485474  
+sfr16, Opti, ds, None, sat, 95, 0.5016436576843262  
+sfr25, Opti, ds, None, sat, 101, 1.5028834342956543  
+sfr30, Opti, ds, None, sat, 126, 5.507407903671265  
+sfr33, Opti, ds, None, sat, 148, 12.264694213867188  
+sfr10, Opti, ds, None, sat, 62, 0.25141334533691406  
+sfr21, Opti, ds, None, sat, 104, 2.7542710304260254  
+sfr17, Opti, ds, None, sat, 88, 0.5018384456634521  
+sfr35, Opti, ds, None, sat, 157, 12.76578164100647  
+sfr14, Opti, ds, None, sat, 103, 0.2514357566833496  
+sfr11, Opti, ds, None, sat, 86, 0.2514684200286865  
+sfr31, Opti, ds, None, sat, 154, 13.266637563705444  
+sfr09, Opti, ds, None, sat, 62, 0.25147223472595215  
+
+NEW SMT-TEST
+sfr22, z3, bv, 129, sat, 110, 17.736204385757446  
+sfr01, z3, bv, 46, sat, 42, 0.15420222282409668  
+sfr15, z3, bv, 87, sat, 79, 1.4544930458068848  
+sfr26, z3, bv, 155, sat, 128, 87.47244143486023  
+sfr24, z3, bv, 144, sat, 110, 31.788384437561035  
+sfr07, z3, bv, 86, sat, 60, 0.8171446323394775  
+sfr32, z3, bv, 199, sat, 156, 1182.9209637641907  
+sfr12, z3, bv, 75, sat, 65, 1.0125017166137695  
+sfr05, z3, bv, 39, sat, 35, 0.10992145538330078  
+sfr02, z3, bv, 78, sat, 53, 0.5315084457397461  
+sfr03, z3, bv, 39, sat, 31, 0.10772228240966797  
+sfr04, z3, bv, 45, sat, 41, 0.13121628761291504  
+sfr34, z3, bv, 187, sat, 144, 271.8196876049042  
+sfr06, z3, bv, 88, sat, 75, 0.8129887580871582  
+sfr23, z3, bv, 152, sat, 135, 26.73250436782837  
+sfr19, z3, bv, 119, sat, 110, 9.038926601409912  
+sfr29, z3, bv, 146, sat, 117, 31.92093253135681  
+sfr18, z3, bv, 112, sat, 102, 6.541609764099121  
+sfr13, z3, bv, 95, sat, 77, 3.255781888961792  
+sfr20, z3, bv, 96, sat, 88, 3.487637996673584  
+sfr28, z3, bv, 183, sat, 135, 123.40646457672119  
+sfr08, z3, bv, 70, sat, 61, 0.552515983581543  
+sfr27, z3, bv, 170, sat, 147, 44.19514513015747  
+sfr16, z3, bv, 110, sat, 95, 4.394093990325928  
+sfr25, z3, bv, 138, sat, 101, 43.5664496421814  
+sfr30, z3, bv, 136, sat, 126, 23.42973017692566  
+sfr33, z3, bv, 170, sat, 148, 171.69142651557922  
+sfr10, z3, bv, 70, sat, 62, 0.5536293983459473  
+sfr21, z3, bv, 124, sat, 104, 21.51116681098938  
+sfr17, z3, bv, 103, sat, 88, 6.363560199737549  
+sfr35, z3, bv, 203, sat, 157, 583.601799249649  
+sfr14, z3, bv, 108, sat, 103, 2.188372850418091  
+sfr11, z3, bv, 101, sat, 86, 2.2373318672180176  
+sfr31, z3, bv, 206, sat, 154, 372.08907175064087  
+sfr09, z3, bv, 66, sat, 62, 0.4760465621948242  
+
+NEW SMT-TEST
+sfr22, Opti, bv, 129, sat, 110, 6.758779048919678  
+sfr01, Opti, bv, 46, sat, 42, 0.2514913082122803  
+sfr15, Opti, bv, 87, sat, 79, 0.7520008087158203  
+sfr26, Opti, bv, 155, sat, 128, 19.77351212501526  
+sfr24, Opti, bv, 144, sat, 110, 10.76331090927124  
+sfr07, Opti, bv, 86, sat, 60, 0.25148510932922363  
+sfr32, Opti, bv, 199, sat, 156, 111.12547588348389  
+sfr12, Opti, bv, 75, sat, 65, 0.5019485950469971  
+sfr05, Opti, bv, 39, sat, 35, 0.25170135498046875  
+sfr02, Opti, bv, 78, sat, 53, 0.25150227546691895  
+sfr03, Opti, bv, 39, sat, 31, 0.251600980758667  
+sfr04, Opti, bv, 45, sat, 41, 0.25155138969421387  
+sfr34, Opti, bv, 187, sat, 144, 56.81425976753235  
+sfr06, Opti, bv, 88, sat, 75, 0.2515397071838379  
+sfr23, Opti, bv, 152, sat, 135, 12.014887809753418  
+sfr19, Opti, bv, 119, sat, 110, 2.2536230087280273  
+sfr29, Opti, bv, 146, sat, 117, 16.770065546035767  
+sfr18, Opti, bv, 112, sat, 102, 2.0034518241882324  
+sfr13, Opti, bv, 95, sat, 77, 1.0024006366729736  
+sfr20, Opti, bv, 96, sat, 88, 1.5029675960540771  
+sfr28, Opti, bv, 183, sat, 135, 38.04354524612427  
+sfr08, Opti, bv, 70, sat, 61, 0.25157785415649414  
+sfr27, Opti, bv, 170, sat, 147, 14.267327547073364  
+sfr16, Opti, bv, 110, sat, 95, 2.0034825801849365  
+sfr25, Opti, bv, 138, sat, 101, 6.509162664413452  
+sfr30, Opti, bv, 136, sat, 126, 10.012197256088257  
+sfr33, Opti, bv, 170, sat, 148, 184.20791697502136  
+sfr10, Opti, bv, 70, sat, 62, 0.25144386291503906  
+sfr21, Opti, bv, 124, sat, 104, 6.258204698562622  
+sfr17, Opti, bv, 103, sat, 88, 1.252502202987671  
+sfr35, Opti, bv, 203, sat, 157, 160.68139600753784  
+sfr14, Opti, bv, 108, sat, 103, 0.5015947818756104  
+sfr11, Opti, bv, 101, sat, 86, 1.0023324489593506  
+sfr31, Opti, bv, 206, sat, 154, 63.3221869468689  
+sfr09, Opti, bv, 66, sat, 62, 0.25153493881225586  
+
+NEW SMT-TEST
+sfr22, z3, ti, 129, sat, 110, 9.987003087997437  
+sfr01, z3, ti, 46, sat, 42, 0.06788897514343262  
+sfr15, z3, ti, 87, sat, 79, 1.7930982112884521  
+sfr26, z3, ti, 155, sat, 128, 27.993248462677002  
+sfr24, z3, ti, 144, sat, 110, 18.727962255477905  
+sfr07, z3, ti, 86, sat, 60, 0.36507463455200195  
+sfr32, z3, ti, 199, sat, 156, 86.68236899375916  
+sfr12, z3, ti, 75, sat, 65, 0.854114294052124  
+sfr05, z3, ti, 39, sat, 35, 0.06860470771789551  
+sfr02, z3, ti, 78, sat, 53, 0.3020944595336914  
+sfr03, z3, ti, 39, sat, 31, 0.05357980728149414  
+sfr04, z3, ti, 45, sat, 41, 0.062386274337768555  
+sfr34, z3, ti, 187, sat, 144, 86.47143888473511  
+sfr06, z3, ti, 88, sat, 75, 0.6601598262786865  
+sfr23, z3, ti, 152, sat, 135, 21.489644765853882  
+sfr19, z3, ti, 119, sat, 110, 8.50205683708191  
+sfr29, z3, ti, 146, sat, 117, 24.965091943740845  
+sfr18, z3, ti, 112, sat, 102, 3.6730642318725586  
+sfr13, z3, ti, 95, sat, 77, 2.123883008956909  
+sfr20, z3, ti, 96, sat, 88, 2.3718576431274414  
+sfr28, z3, ti, 183, sat, 135, 46.43108797073364  
+sfr08, z3, ti, 70, sat, 61, 0.5854334831237793  
+sfr27, z3, ti, 170, sat, 147, 29.025917530059814  
+sfr16, z3, ti, 110, sat, 95, 3.3272392749786377  
+sfr25, z3, ti, 138, sat, 101, 17.048978567123413  
+sfr30, z3, ti, 136, sat, 126, 20.54285740852356  
+sfr33, z3, ti, 170, sat, 148, 177.67576789855957  
+sfr10, z3, ti, 70, sat, 62, 0.31627845764160156  
+sfr21, z3, ti, 124, sat, 104, 12.088268518447876  
+sfr17, z3, ti, 103, sat, 88, 3.735875368118286  
+sfr35, z3, ti, 203, sat, 157, 265.37407994270325  
+sfr14, z3, ti, 108, sat, 103, 1.5010318756103516  
+sfr11, z3, ti, 101, sat, 86, 1.6999835968017578  
+sfr31, z3, ti, 206, sat, 154, 78.07275438308716  
+sfr09, z3, ti, 66, sat, 62, 0.15011096000671387  
+
+NEW SMT-TEST
+sfr22, Opti, ti, 129, unknown, [], 1200.078777551651  
+sfr01, Opti, ti, 46, unknown, [], 1200.1266088485718  
+sfr15, Opti, ti, 87, unknown, [], 1200.1658720970154  
+sfr26, Opti, ti, 155, unknown, [], 1200.0172576904297  
+sfr24, Opti, ti, 144, unknown, [], 1200.04243683815  
+sfr07, Opti, ti, 86, unknown, [], 1200.1115057468414  
+sfr32, Opti, ti, 199, unknown, [], 1200.183405160904  
+sfr12, Opti, ti, 75, unknown, [], 1200.1559946537018  
+sfr05, Opti, ti, 39, unknown, [], 1200.2479791641235  
+sfr02, Opti, ti, 78, unknown, [], 1200.024789571762  
+sfr03, Opti, ti, 39, sat, 31, 97.44403290748596  
+sfr04, Opti, ti, 45, unknown, [], 1200.039822101593  
+sfr34, Opti, ti, 187, unknown, [], 1200.1976733207703  
+sfr06, Opti, ti, 88, unknown, [], 1200.0634908676147  
+sfr23, Opti, ti, 152, unknown, [], 1200.0080976486206  
+sfr19, Opti, ti, 119, unknown, [], 1200.1478691101074  
+sfr29, Opti, ti, 146, unknown, [], 1200.0877323150635  
+sfr18, Opti, ti, 112, unknown, [], 1200.2002651691437  
+sfr13, Opti, ti, 95, unknown, [], 1200.0437550544739  
+sfr20, Opti, ti, 96, unknown, [], 1200.2117719650269  
+sfr28, Opti, ti, 183, unknown, [], 1200.1335372924805  
+sfr08, Opti, ti, 70, unknown, [], 1200.1725056171417  
+sfr27, Opti, ti, 170, unknown, [], 1200.2106137275696  
+sfr16, Opti, ti, 110, unknown, [], 1200.110505104065  
+sfr25, Opti, ti, 138, unknown, [], 1200.0210387706757  
+sfr30, Opti, ti, 136, unknown, [], 1200.080834388733  
+sfr33, Opti, ti, 170, unknown, [], 1200.2328827381134  
+sfr10, Opti, ti, 70, unknown, [], 1200.1586861610413  
+sfr21, Opti, ti, 124, unknown, [], 1200.2191500663757  
+sfr17, Opti, ti, 103, unknown, [], 1200.1968541145325  
+sfr35, Opti, ti, 203, unknown, [], 1200.0555946826935  
+sfr14, Opti, ti, 108, unknown, [], 1200.0754280090332  
+sfr11, Opti, ti, 101, unknown, [], 1200.0623450279236  
+sfr31, Opti, ti, 206, unknown, [], 1200.0266468524933  
+sfr09, Opti, ti, 66, unknown, [], 1200.0240824222565  
+
+
+NEW SMT-TEST
+orb06, Opti, ds, None, sat, 1010, 568.694972038269  
+orb02, Opti, ds, None, sat, 888, 60.57576322555542  
+orb03, Opti, ds, None, sat, 1005, 1092.8447482585907  
+orb05, Opti, ds, None, sat, 887, 47.306061029434204  
+orb07, Opti, ds, None, sat, 397, 38.798505783081055  
+orb01, Opti, ds, None, unknown, [], 1200.2278800010681  
+orb08, Opti, ds, None, sat, 899, 103.62968754768372  
+orb10, Opti, ds, None, sat, 944, 87.10852694511414  
+orb09, Opti, ds, None, sat, 934, 93.3656153678894  
+orb04, Opti, ds, None, sat, 1005, 88.60994625091553  
+
+NEW SMT-TEST
+ta06, Opti, ds, None, unknown, [], 1200.2172584533691  
+ta07, Opti, ds, None, unknown, [], 1200.2308595180511  
+ta02, Opti, ds, None, unknown, [], 1200.202030658722  
+ta03, Opti, ds, None, unknown, [], 1200.1584014892578  
+ta05, Opti, ds, None, unknown, [], 1200.1598875522614  
+
+PROVA
+
+sfr02, z3, bv, 58, sat, 53, 0.8453  
+sfr02, z3, bv, 111, sat, 53, 3.9301  
+sfr02, Opti, bv, 111, sat, 53, 2.3471  
+sfr01, z3, ti, 46, sat, 42, 0.4219
+
+sfr01, z3, ti, 46, sat, 42, 0.2999  
+sfr01, z3, ti, 46, sat, 42, 0.182  
+sfr01, Opti, bv, 46, sat, 42, 0.2516  
+sfr02, Opti, bv, 58, sat, 53, 0.2516
+
+PRELIMINARY TEST
+
+sfr01, z3, bv, 46, sat, 42, 0.138  
+sfr02, z3, bv, 58, sat, 53, 0.2667  
+sfr03, z3, bv, 34, sat, 31, 0.0773  
+sfr04, z3, bv, 45, sat, 41, 0.1116  
+sfr05, z3, bv, 38, sat, 35, 0.0965  
+sfr06, z3, bv, 82, sat, 75, 0.7788  
+sfr07, z3, bv, 66, sat, 60, 0.5129  
+sfr08, z3, bv, 67, sat, 61, 0.3716  
+sfr09, z3, bv, 68, sat, 62, 0.3566  
+sfr10, z3, bv, 68, sat, 62, 0.5188  
+sfr11, z3, bv, 95, sat, 86, 1.9634  
+sfr12, z3, bv, 72, sat, 65, 0.7803  
+sfr13, z3, bv, 85, sat, 77, 1.9056  
+sfr14, z3, bv, 113, sat, 103, 3.3864  
+sfr15, z3, bv, 87, sat, 79, 2.1003  
+sfr16, z3, bv, 105, sat, 95, 3.4275  
+sfr17, z3, bv, 97, sat, 88, 2.3623  
+sfr18, z3, bv, 112, sat, 102, 3.6188  
+sfr19, z3, bv, 121, sat, 110, 9.0999  
+sfr20, z3, bv, 97, sat, 88, 4.1395  
+sfr21, z3, bv, 114, sat, 104, 10.7124  
+sfr22, z3, bv, 121, sat, 110, 8.9573  
+sfr23, z3, bv, 148, sat, 135, 31.0714  
+sfr24, z3, bv, 121, sat, 110, 12.3217  
+sfr25, z3, bv, 111, sat, 101, 10.2884  
+sfr26, z3, bv, 141, sat, 128, 38.7986  
+sfr27, z3, bv, 162, sat, 147, 47.6  
+sfr28, z3, bv, 148, sat, 135, 42.3458  
+sfr29, z3, bv, 129, sat, 117, 20.253  
+sfr30, z3, bv, 139, sat, 126, 22.8898  
+sfr31, z3, bv, 169, sat, 154, 227.8784  
+sfr32, z3, bv, 172, sat, 156, 153.4168  
+sfr33, z3, bv, 163, sat, 148, 172.7749  
+sfr34, z3, bv, 158, sat, 144, 87.3848  
+sfr35, z3, bv, 173, sat, 157, 321.2913  
+sfr01, z3, ti, 46, sat, 42, 0.132  
+sfr02, z3, ti, 58, sat, 53, 0.2655  
+sfr03, z3, ti, 34, sat, 31, 0.0636  
+sfr04, z3, ti, 45, sat, 41, 0.1342  
+sfr05, z3, ti, 38, sat, 35, 0.116  
+sfr06, z3, ti, 82, sat, 75, 1.4853  
+sfr07, z3, ti, 66, sat, 60, 0.7488  
+sfr08, z3, ti, 67, sat, 61, 0.9316  
+sfr09, z3, ti, 68, sat, 62, 0.5429  
+sfr10, z3, ti, 68, sat, 62, 1.2829  
+sfr11, z3, ti, 95, sat, 86, 8.0361  
+sfr12, z3, ti, 72, sat, 65, 2.0574  
+sfr13, z3, ti, 85, sat, 77, 6.4604  
+sfr14, z3, ti, 113, sat, 103, 11.2831  
+sfr15, z3, ti, 87, sat, 79, 2.7226  
+sfr16, z3, ti, 105, sat, 95, 19.3592  
+sfr17, z3, ti, 97, sat, 88, 10.9249  
+sfr18, z3, ti, 112, sat, 102, 24.6002  
+sfr19, z3, ti, 121, sat, 110, 33.1294  
+sfr20, z3, ti, 97, sat, 88, 23.038  
+sfr21, z3, ti, 114, sat, 104, 30.6677  
+sfr22, z3, ti, 121, sat, 110, 52.4793  
+sfr23, z3, ti, 148, sat, 135, 713.5854  
+sfr24, z3, ti, 121, sat, 110, 35.8621  
+sfr25, z3, ti, 111, sat, 101, 36.6481  
+sfr26, z3, ti, 141, sat, 128, 242.9741  
+sfr27, z3, ti, 162, sat, 147, 239.3854  
+sfr28, z3, ti, 148, sat, 135, 306.5964  
+sfr29, z3, ti, 129, sat, 117, 128.9884  
+sfr30, z3, ti, 139, sat, 126, 151.0268  
+sfr31, z3, ti, 169, unknown, 1, 1296.9477  
+sfr32, z3, ti, 172, unknown, 1, 1312.4822  
+sfr33, z3, ti, 163, unknown, 1, 1312.0434  
+sfr34, z3, ti, 158, unknown, 1, 1308.0644  
+sfr35, z3, ti, 173, unknown, 1, 1308.6098  
+sfr01, Opti, bv, 46, sat, 42, 0.2531  
+sfr02, Opti, bv, 58, sat, 53, 0.253  
+sfr03, Opti, bv, 34, sat, 31, 0.2533  
+sfr04, Opti, bv, 45, sat, 41, 0.2532  
+sfr05, Opti, bv, 38, sat, 35, 0.2533  
+sfr06, Opti, bv, 82, sat, 75, 0.2531  
+sfr07, Opti, bv, 66, sat, 60, 0.2531  
+sfr08, Opti, bv, 67, sat, 61, 0.2532  
+sfr09, Opti, bv, 68, sat, 62, 0.2534  
+sfr10, Opti, bv, 68, sat, 62, 0.2531  
+sfr11, Opti, bv, 95, sat, 86, 0.7538  
+sfr12, Opti, bv, 72, sat, 65, 0.5035  
+sfr13, Opti, bv, 85, sat, 77, 0.7538  
+sfr14, Opti, bv, 113, sat, 103, 0.7538  
+sfr15, Opti, bv, 87, sat, 79, 0.5032  
+sfr16, Opti, bv, 105, sat, 95, 1.5047  
+sfr17, Opti, bv, 97, sat, 88, 1.0039  
+sfr18, Opti, bv, 112, sat, 102, 1.5045  
+sfr19, Opti, bv, 121, sat, 110, 2.0051  
+sfr20, Opti, bv, 97, sat, 88, 1.5046  
+sfr21, Opti, bv, 114, sat, 104, 4.0078  
+sfr22, Opti, bv, 121, sat, 110, 3.0066  
+sfr23, Opti, bv, 148, sat, 135, 9.7651  
+sfr24, Opti, bv, 121, sat, 110, 3.5068  
+sfr25, Opti, bv, 111, sat, 101, 3.2568  
+sfr26, Opti, bv, 141, sat, 128, 14.7713  
+sfr27, Opti, bv, 162, sat, 147, 10.2656  
+sfr28, Opti, bv, 148, sat, 135, 25.5347  
+sfr29, Opti, bv, 129, sat, 117, 10.0152  
+sfr30, Opti, bv, 139, sat, 126, 10.0153  
+sfr31, Opti, bv, 169, sat, 154, 36.2985  
+sfr32, Opti, bv, 172, sat, 156, 73.5954  
+sfr33, Opti, bv, 163, sat, 148, 107.8887  
+sfr34, Opti, bv, 158, sat, 144, 34.0453  
+sfr35, Opti, bv, 173, sat, 157, 192.9968  
+sfr01, Opti, ti, 46, unknown, [], 1200.2116  
+sfr02, Opti, ti, 58, unknown, [], 1200.0071  
+sfr03, Opti, ti, 34, sat, 31, 1.2541  
+sfr04, Opti, ti, 45, unknown, [], 1200.0371  
+sfr05, Opti, ti, 38, sat, 35, 832.295  
+sfr06, Opti, ti, 82, unknown, [], 1200.0111  
+sfr07, Opti, ti, 66, unknown, [], 1200.0848  
+sfr08, Opti, ti, 67, unknown, [], 1200.1212  
+sfr09, Opti, ti, 68, unknown, [], 1200.0181  
+sfr10, Opti, ti, 68, unknown, [], 1200.1961  
+sfr11, Opti, ti, 95, unknown, [], 1200.0451  
+sfr12, Opti, ti, 72, unknown, [], 1200.1438  
+sfr13, Opti, ti, 85, unknown, [], 1200.1266  
+sfr14, Opti, ti, 113, unknown, [], 1200.1227  
+sfr15, Opti, ti, 87, unknown, [], 1200.1197  
+sfr16, Opti, ti, 105, unknown, [], 1200.1341  
+sfr17, Opti, ti, 97, unknown, [], 1200.13  
+sfr18, Opti, ti, 112, unknown, [], 1200.1613  
+sfr19, Opti, ti, 121, unknown, [], 1200.1643  
+sfr20, Opti, ti, 97, unknown, [], 1200.0008  
+sfr21, Opti, ti, 114, unknown, [], 1200.0357  
+sfr22, Opti, ti, 121, unknown, [], 1200.1771  
+sfr23, Opti, ti, 148, unknown, [], 1200.1738  
+sfr24, Opti, ti, 121, unknown, [], 1200.1253  
+sfr25, Opti, ti, 111, unknown, [], 1200.1727  
+sfr26, Opti, ti, 141, unknown, [], 1200.1409  
+sfr27, Opti, ti, 162, unknown, [], 1200.1545  
+sfr28, Opti, ti, 148, unknown, [], 1200.1503  
+sfr29, Opti, ti, 129, unknown, [], 1200.1831  
+sfr30, Opti, ti, 139, unknown, [], 1200.2132  
+sfr31, Opti, ti, 169, unknown, [], 1200.1966  
+sfr32, Opti, ti, 172, unknown, [], 1200.181  
+sfr33, Opti, ti, 163, unknown, [], 1200.0558  
+sfr34, Opti, ti, 158, unknown, [], 1200.2121  
+sfr35, Opti, ti, 173, unknown, [], 1200.1564
+
+LAWRENCE TESTS
+
+la01, z3, bv, 733, unknown, None, 1646.72, 27.39  
+la02, z3, bv, 732, unknown, None, 1211.4402, 24.21  
+la03, z3, bv, 657, (error, None, 1216.132, 20.1  
+la04, z3, bv, 649, unknown, None, 1211.808, 24.28  
+la05, z3, bv, 652, (error, None, 1208.813, 20.71  
+la16, z3, bv, 1040, unknown, None, 3653.5758, 49.67  
+la17, z3, bv, 862, unknown, None, 3527.8602, 41.89  
+la18, z3, bv, 933, unknown, None, 4153.5953, 48.12  
+la19, z3, bv, 926, unknown, None, 4259.6968, 45.79  
+la20, z3, bv, 992, unknown, None, 3426.6004, 48.94  
+
+la01, Opti, bv, 733, unknown, [], 1200.1365, 2.45  
+la02, Opti, bv, 732, unknown, [], 1200.0631, 2.5  
+la03, Opti, bv, 657, unknown, [], 1200.2121, 2.15  
+la04, Opti, bv, 649, unknown, [], 1200.1312, 2.46  
+la05, Opti, bv, 652, unknown, [], 1200.1367, 2.86
+
+FISHER TESTS
+
+ft06, Opti, bv, 61, sat, 55, 2.5068, 0.18  
+ft06, z3, bv, 61, sat, 55, 1.8765, 0.18  
+ft06, z3, ti, 61, sat, 55, 33.7535, 10.64  
+ft06, Opti, ti, 61, unknown, [], 1200.1001, 10.64
+
+SECOND BATCH TESTS
+
+sfr36, z3, bv, 166, sat, 151, 550.7677, 0.85  
+sfr37, z3, bv, 184, sat, 167, 806.6521, 1.06  
+sfr38, z3, bv, 167, sat, 152, 653.8912, 0.94  
+sfr39, z3, bv, 175, sat, 159, 473.72, 0.92  
+sfr40, z3, bv, 180, unknown, None, 1200.3354, 1.03  
+sfr41, z3, bv, 193, unknown, None, 1200.4313, 1.2  
+sfr42, z3, bv, 207, unknown, None, 1200.7472, 1.34  
+sfr43, z3, bv, 197, unknown, None, 1200.6308, 1.22  
+sfr44, z3, bv, 198, unknown, None, 1200.7766, 1.27  
+sfr45, z3, bv, 196, sat, 178, 1117.6004, 1.32  
+sfr46, z3, bv, 195, unknown, None, 1200.5576, 1.71  
+sfr47, z3, bv, 218, unknown, None, 1204.6337, 1.54  
+sfr48, z3, bv, 205, unknown, None, 1201.8634, 1.42  
+sfr49, z3, bv, 222, unknown, None, 1200.6117, 1.68  
+sfr50, z3, bv, 209, unknown, None, 1200.9671, 1.53  
+sfr51, z3, bv, 221, unknown, None, 1201.3934, 2.24  
+sfr52, z3, bv, 237, unknown, None, 1201.4112, 2.31  
+sfr53, z3, bv, 232, unknown, None, 1201.3673, 1.87  
+sfr54, z3, bv, 240, unknown, None, 1201.5255, 2.23  
+sfr55, z3, bv, 248, unknown, None, 1201.4962, 2.09  
+sfr36, Opti, bv, 166, sat, 151, 353.5254, 0.97  
+sfr37, Opti, bv, 184, sat, 167, 592.4758, 1.09  
+sfr38, Opti, bv, 167, sat, 152, 217.1067, 0.96  
+sfr39, Opti, bv, 175, sat, 159, 238.8843, 1.0  
+sfr40, Opti, bv, 180, sat, 164, 1069.2132, 1.0  
+sfr41, Opti, bv, 193, sat, 175, 1191.0464, 1.31  
+sfr42, Opti, bv, 207, sat, 188, 931.9169, 1.39  
+sfr43, Opti, bv, 197, unknown, [], 1200.0325, 1.28  
+sfr44, Opti, bv, 198, unknown, [], 1200.1843, 1.32  
+sfr45, Opti, bv, 196, sat, 178, 366.3344, 1.48  
+sfr46, Opti, bv, 195, unknown, [], 1200.1617, 1.64  
+sfr47, Opti, bv, 218, unknown, [], 1200.1873, 1.72  
+sfr48, Opti, bv, 205, unknown, [], 1200.0903, 1.57  
+sfr49, Opti, bv, 222, unknown, [], 1200.2007, 1.73  
+sfr50, Opti, bv, 209, unknown, [], 1200.1183, 1.97  
+sfr51, Opti, bv, 221, unknown, [], 1200.0342, 3.14  
+sfr52, Opti, bv, 237, unknown, [], 1200.0105, 2.18  
+sfr53, Opti, bv, 232, unknown, [], 1200.2398, 2.78  
+sfr54, Opti, bv, 240, unknown, [], 1200.1308, 3.14  
+sfr55, Opti, bv, 248, unknown, [], 1200.0355, 3.5  
+sfr36, z3, ti, 166, unknown, 1, 1316.3639, 357.08  
+sfr37, z3, ti, 184, unknown, 1, 1360.2266, 439.5  
+sfr38, z3, ti, 167, unknown, 1, 1342.752, 332.82  
+sfr39, z3, ti, 175, unknown, 1, 1342.804, 412.34  
+sfr40, z3, ti, 180, unknown, 1, 1390.129, 342.78  
+sfr41, z3, ti, 193, unknown, 1, 1351.9481, 488.63  
+sfr42, z3, ti, 207, unknown, 1, 1348.0521, 568.59  
+sfr43, z3, ti, 197, unknown, 1, 1361.772, 416.16  
+sfr44, z3, ti, 198, unknown, 1, 1369.9681, 427.79  
+sfr45, z3, ti, 196, unknown, 1, 1362.3603, 480.27  
+sfr46, z3, ti, 195, unknown, 1, 1371.8749, 470.13  
+sfr47, z3, ti, 218, unknown, 1, 1518.6304, 600.35  
+sfr48, z3, ti, 205, unknown, 1, 1343.2619, 438.89  
+sfr49, z3, ti, 222, unknown, 1, 1333.0272, 521.52  
+sfr50, z3, ti, 209, unknown, 1, 1367.7095, 479.74  
+sfr51, z3, ti, 221, unknown, 1, 1323.4832, 583.87  
+sfr52, z3, ti, 237, unknown, 1, 1330.7385, 685.45  
+sfr53, z3, ti, 232, unknown, 1, 1333.1356, 661.26  
+sfr54, z3, ti, 240, unknown, 1, 1378.9824, 715.6  
+sfr55, z3, ti, 248, unknown, 1, 1387.1961, 797.23  
+sfr36, Opti, ti, 166, unknown, [], 1200.0467, 201.32  
+
+MODEL SIZE TESTS
+
+sfr01, bv, 9165 
+sfr02, bv, 9637 
+sfr03, bv, 7811 
+sfr04, bv, 8232 
+sfr05, bv, 8428 
+sfr06, bv, 16591 
+sfr07, bv, 16405 
+sfr08, bv, 15504 
+sfr09, bv, 15818 
+sfr10, bv, 15327 
+sfr11, bv, 27884 
+sfr12, bv, 24870 
+sfr13, bv, 25656 
+sfr14, bv, 29422 
+sfr15, bv, 26271 
+sfr16, bv, 40630 
+sfr17, bv, 38637 
+sfr18, bv, 41978 
+sfr19, bv, 41965 
+sfr20, bv, 38675 
+sfr21, bv, 56072 
+sfr22, bv, 56981 
+sfr23, bv, 60815 
+sfr24, bv, 58521 
+sfr25, bv, 55472 
+sfr26, bv, 78526 
+sfr27, bv, 81106 
+sfr28, bv, 80340 
+sfr29, bv, 77881 
+sfr30, bv, 77897 
+sfr31, bv, 104233 
+sfr32, bv, 105065 
+sfr33, bv, 104023 
+sfr34, bv, 101538 
+sfr35, bv, 103416 
+sfr36, bv, 130796 
+sfr37, bv, 134881 
+sfr38, bv, 130136 
+sfr39, bv, 130692 
+sfr40, bv, 132753 
+sfr41, bv, 165724 
+sfr42, bv, 173521 
+sfr43, bv, 165880 
+sfr44, bv, 167437 
+sfr45, bv, 166782 
+sfr46, bv, 201291 
+sfr47, bv, 208549 
+sfr48, bv, 199474 
+sfr49, bv, 207916 
+sfr50, bv, 208125 
+sfr51, bv, 247238 
+sfr52, bv, 246461 
+sfr53, bv, 245679 
+sfr54, bv, 253007 
+sfr55, bv, 251303 
+sfr01, ti, 261445 
+sfr02, ti, 356705 
+sfr03, ti, 176335 
+sfr04, ti, 251638 
+sfr05, ti, 203240 
+sfr06, ti, 1110739 
+sfr07, ti, 839679 
+sfr08, ti, 856521 
+sfr09, ti, 859701 
+sfr10, ti, 861389 
+sfr11, ti, 2194706 
+sfr12, ti, 1509791 
+sfr13, ti, 1922095 
+sfr14, ti, 2880114 
+sfr15, ti, 1974837 
+sfr16, ti, 3742158 
+sfr17, ti, 3385580 
+sfr18, ti, 4176917 
+sfr19, ti, 4663996 
+sfr20, ti, 3371099 
+sfr21, ti, 5845140 
+sfr22, ti, 6775159 
+sfr23, ti, 9071779 
+sfr24, ti, 6632856 
+sfr25, ti, 5832489 
+sfr26, ti, 11204074 
+sfr27, ti, 14129739 
+sfr28, ti, 12395504 
+sfr29, ti, 9503359 
+sfr30, ti, 10906676 
+sfr31, ti, 18757599 
+sfr32, ti, 19821247 
+sfr33, ti, 18004157 
+sfr34, ti, 17127458 
+sfr35, ti, 19921263 
+sfr36, ti, 22895007 
+sfr37, ti, 27349702 
+sfr38, ti, 23193099 
+sfr39, ti, 24851417 
+sfr40, ti, 26086251 
+sfr41, ti, 35767131 
+sfr42, ti, 40389528 
+sfr43, ti, 36858598 
+sfr44, ti, 37244702 
+sfr45, ti, 36443558 
+sfr46, ti, 43547168 
+sfr47, ti, 51971416 
+sfr48, ti, 46883170 
+sfr49, ti, 53691924 
+sfr50, ti, 49212513 
+sfr51, ti, 62844472 
+sfr52, ti, 70303788 
+sfr53, ti, 67700208 
+sfr54, ti, 72041263 
+sfr55, ti, 76265813 
+
+BOUND TESTS
+
+sfr30, Opti, bv, 129, sat, 126, 4.5063, 0.35, 85053  
+sfr30, z3, ti, 129, sat, 126, 80.9616, 43.59, 9738474  
+sfr30, Opti, bv, 132, sat, 126, 7.2608, 0.32, 87537  
+sfr30, z3, ti, 132, sat, 126, 181.0086, 45.97, 10338069  
+sfr30, Opti, bv, 135, sat, 126, 8.5123, 0.32, 90384  
+sfr30, z3, ti, 135, sat, 126, 432.4626, 48.29, 10374125  
+sfr30, Opti, bv, 138, sat, 126, 10.5148, 0.34, 89967  
+sfr30, z3, ti, 138, sat, 126, 223.7846, 50.63, 11006803  
+sfr30, Opti, bv, 141, sat, 126, 14.0189, 0.32, 91280  
+sfr30, z3, ti, 141, sat, 126, 195.9901, 51.85, 11226257  
+sfr30, Opti, bv, 144, sat, 126, 12.0161, 0.32, 90448  
+sfr30, z3, ti, 144, sat, 126, 205.5354, 54.47, 11478722  
+sfr30, Opti, bv, 147, sat, 126, 13.518, 0.37, 89551  
+sfr30, z3, ti, 147, sat, 126, 274.1854, 56.9, 11985749  
+sfr30, Opti, bv, 150, sat, 126, 17.0217, 0.33, 90292  
+sfr30, z3, ti, 150, sat, 126, 302.9374, 58.95, 12384369  
+sfr30, Opti, bv, 153, sat, 126, 17.0218, 0.33, 90594  
+sfr30, z3, ti, 153, sat, 126, 145.2366, 61.29, 12752692  
+sfr30, Opti, bv, 156, sat, 126, 17.0217, 0.32, 90677  
+sfr30, z3, ti, 156, sat, 126, 277.3671, 62.65, 13192639  
+sfr30, Opti, bv, 159, sat, 126, 14.0193, 0.4, 90935  
+sfr30, z3, ti, 159, sat, 126, 275.2888, 65.04, 13573547  
+sfr30, Opti, bv, 162, sat, 126, 15.27, 0.34, 91266  
+sfr30, z3, ti, 162, sat, 126, 224.2283, 67.82, 13934129  
+sfr30, Opti, bv, 165, sat, 126, 17.523, 0.34, 90964  
+sfr30, z3, ti, 165, sat, 126, 219.1832, 70.64, 14323241  
+sfr30, Opti, bv, 168, sat, 126, 17.7731, 0.33, 90804  
+sfr30, z3, ti, 168, sat, 126, 281.0883, 72.4, 14776740  
+sfr30, Opti, bv, 171, sat, 126, 19.2756, 0.33, 91084  
+sfr30, z3, ti, 171, sat, 126, 254.9753, 74.93, 15222787  
+sfr30, Opti, bv, 174, sat, 126, 21.2788, 0.37, 91553  
+sfr30, z3, ti, 174, sat, 126, 290.9537, 77.59, 15621215  
+sfr30, Opti, bv, 177, sat, 126, 19.7762, 0.34, 91370  
+sfr30, z3, ti, 177, sat, 126, 345.2266, 80.27, 16054365  
+sfr30, Opti, bv, 180, sat, 126, 19.7761, 0.33, 91479  
+sfr30, z3, ti, 180, sat, 126, 224.3605, 82.81, 16468981  
+sfr30, Opti, bv, 183, sat, 126, 18.2741, 0.43, 91537  
+sfr30, z3, ti, 183, sat, 126, 355.5042, 85.9, 16875323  
+sfr30, Opti, bv, 186, sat, 126, 24.5316, 0.33, 91413  
+sfr30, z3, ti, 186, sat, 126, 215.7838, 88.75, 17318197  
+sfr30, Opti, bv, 189, sat, 126, 23.0297, 0.33, 91581  
+sfr30, z3, ti, 189, sat, 126, 422.2737, 91.78, 17807179  
+sfr30, Opti, bv, 192, sat, 126, 32.2899, 0.34, 91944  
+sfr30, z3, ti, 192, sat, 126, 336.7298, 93.67, 18260393  
+sfr30, Opti, bv, 195, sat, 126, 18.5239, 0.42, 92084  
+sfr30, z3, ti, 195, sat, 126, 515.0051, 97.0, 18690036  
+sfr30, Opti, bv, 198, sat, 126, 29.2866, 0.34, 92092  
+sfr30, z3, ti, 198, sat, 126, 477.6312, 100.4, 19179609  
+sfr30, Opti, bv, 201, sat, 126, 29.0359, 0.34, 92187  
+sfr30, z3, ti, 201, sat, 126, 818.5466, 102.15, 19629408  
+sfr30, Opti, bv, 204, sat, 126, 25.0348, 0.34, 92310  
+sfr30, z3, ti, 204, sat, 126, 561.5882, 105.14, 20080326  
+sfr30, Opti, bv, 207, sat, 126, 32.5397, 0.35, 92250  
+sfr30, z3, ti, 207, sat, 126, 405.3301, 108.31, 20580469  
+sfr30, Opti, bv, 210, sat, 126, 24.0311, 0.35, 92142  
+sfr30, z3, ti, 210, sat, 126, 560.5395, 111.11, 21079801  
+sfr30, Opti, bv, 213, sat, 126, 31.2891, 0.35, 92190  
+sfr30, z3, ti, 213, sat, 126, 426.9549, 114.06, 21552889  
+sfr30, Opti, bv, 216, sat, 126, 27.2855, 0.41, 92429  
+sfr30, z3, ti, 216, sat, 126, 524.4894, 117.02, 22052400  
+sfr30, Opti, bv, 219, sat, 126, 29.7875, 0.35, 92384  
+sfr30, z3, ti, 219, sat, 126, 639.9782, 120.76, 22553946  
+sfr30, Opti, bv, 222, sat, 126, 33.2919, 0.35, 92437  
+sfr30, z3, ti, 222, sat, 126, 525.8161, 124.34, 23077771  
+sfr30, Opti, bv, 225, sat, 126, 30.037, 0.36, 92746  
+sfr30, z3, ti, 225, sat, 126, 812.7017, 128.21, 23567952  
+sfr30, Opti, bv, 228, sat, 126, 33.7915, 0.34, 92714  
+sfr30, z3, ti, 228, sat, 126, 668.4813, 130.98, 24081869  
+sfr30, Opti, bv, 231, sat, 126, 33.0416, 0.35, 92696  
+sfr30, z3, ti, 231, sat, 126, 464.6139, 134.26, 24625551  
+sfr30, Opti, bv, 234, sat, 126, 33.7921, 0.41, 92824  
+sfr30, z3, ti, 234, sat, 126, 614.6081, 137.94, 25125947  
+sfr30, Opti, bv, 237, sat, 126, 38.2981, 0.35, 92861  
+sfr30, z3, ti, 237, sat, 126, 461.7087, 132.89, 25667323  
+sfr30, Opti, bv, 240, sat, 126, 36.0455, 0.35, 92981  
+sfr30, z3, ti, 240, sat, 126, 653.9979, 137.9, 26214976  
+sfr30, Opti, bv, 243, sat, 126, 38.5481, 0.37, 93129  
+sfr30, z3, ti, 243, sat, 126, 847.9512, 144.74, 26732132  
+sfr30, Opti, bv, 246, sat, 126, 34.7933, 0.38, 93194  
+sfr30, z3, ti, 246, sat, 126, 669.0622, 148.18, 27289135  
+sfr30, Opti, bv, 249, sat, 126, 36.2945, 0.37, 93267  
+sfr30, z3, ti, 249, sat, 126, 691.1693, 151.02, 27817953  
+sfr30, Opti, bv, 252, sat, 126, 52.0633, 0.38, 93349  
+sfr30, z3, ti, 252, sat, 126, 767.9702, 155.35, 28389487  
+sfr30, Opti, bv, 139, sat, 126, 11.0136, 0.31, 85245  
+
+SOME MORE BOUND TESTS
+
+
+sfr30, Opti, bv, 129, sat, 126, 4.0063, 0.3, 85053  
+sfr30, z3, ti, 129, sat, 126, 68.8598, 41.62, 9738474  
+sfr30, Opti, bv, 132, sat, 126, 6.5121, 0.32, 87537  
+sfr30, z3, ti, 132, sat, 126, 156.5708, 42.54, 10338069  
+sfr30, Opti, bv, 135, sat, 126, 7.2627, 0.32, 90384  
+sfr30, z3, ti, 135, sat, 126, 368.5792, 44.51, 10374125  
+sfr30, Opti, bv, 138, sat, 126, 9.2657, 0.32, 89967  
+sfr30, z3, ti, 138, sat, 126, 190.6693, 46.4, 11006803  
+sfr30, Opti, bv, 141, sat, 126, 12.0196, 0.32, 91280  
+sfr30, z3, ti, 141, sat, 126, 166.0892, 48.41, 11226257  
+sfr30, Opti, bv, 144, sat, 126, 10.5169, 0.32, 90448  
+sfr30, z3, ti, 144, sat, 126, 174.2928, 50.53, 11478722  
+sfr30, Opti, bv, 147, sat, 126, 12.0187, 0.32, 89551  
+sfr30, z3, ti, 147, sat, 126, 234.5526, 52.22, 11985749  
+sfr30, Opti, bv, 150, sat, 126, 15.0226, 0.32, 90292  
+sfr30, z3, ti, 150, sat, 126, 259.1523, 54.1, 12384369  
+sfr30, Opti, bv, 153, sat, 126, 15.0226, 0.32, 90594  
+sfr30, z3, ti, 153, sat, 126, 124.4877, 56.44, 12752692  
+sfr30, Opti, bv, 156, sat, 126, 14.5223, 0.32, 90677  
+sfr30, z3, ti, 156, sat, 126, 237.1123, 58.34, 13192639  
+sfr30, Opti, bv, 159, sat, 126, 12.5208, 0.32, 90935  
+sfr30, z3, ti, 159, sat, 126, 233.3991, 60.4, 13573547  
+sfr30, Opti, bv, 162, sat, 126, 13.7709, 0.32, 91266  
+sfr30, z3, ti, 162, sat, 126, 192.8513, 62.56, 13934129  
+sfr30, Opti, bv, 165, sat, 126, 15.775, 0.33, 90964  
+sfr30, z3, ti, 165, sat, 126, 187.0218, 64.98, 14323241  
+sfr30, Opti, bv, 168, sat, 126, 16.0252, 0.32, 90804  
+sfr30, z3, ti, 168, sat, 126, 242.5404, 67.14, 14776740  
+sfr30, Opti, bv, 171, sat, 126, 17.0265, 0.33, 91084  
+sfr30, z3, ti, 171, sat, 126, 215.3778, 69.5, 15222787  
+sfr30, Opti, bv, 174, sat, 126, 18.7783, 0.33, 91553  
+sfr30, z3, ti, 174, sat, 126, 250.8282, 71.69, 15621215  
+sfr30, Opti, bv, 177, sat, 126, 17.5264, 0.33, 91370  
+sfr30, z3, ti, 177, sat, 126, 296.7323, 74.15, 16054365  
+sfr30, Opti, bv, 180, sat, 126, 17.7764, 0.33, 91479  
+sfr30, z3, ti, 180, sat, 126, 190.6181, 76.68, 16468981  
+sfr30, Opti, bv, 183, sat, 126, 16.0242, 0.33, 91537  
+sfr30, z3, ti, 183, sat, 126, 306.6588, 79.19, 16875323  
+sfr30, Opti, bv, 186, sat, 126, 21.5313, 0.33, 91413  
+sfr30, z3, ti, 186, sat, 126, 183.9315, 81.91, 17318197  
+sfr30, Opti, bv, 189, sat, 126, 20.2794, 0.33, 91581  
+sfr30, z3, ti, 189, sat, 126, 360.9807, 83.92, 17807179  
+sfr30, Opti, bv, 192, sat, 126, 28.0389, 0.33, 91944  
+sfr30, z3, ti, 192, sat, 126, 291.5723, 86.97, 18260393  
+sfr30, Opti, bv, 195, sat, 126, 16.2748, 0.33, 92084  
+sfr30, z3, ti, 195, sat, 126, 441.9306, 89.31, 18690036  
+sfr30, Opti, bv, 198, sat, 126, 25.5361, 0.33, 92092  
+sfr30, z3, ti, 198, sat, 126, 408.4826, 91.65, 19179609  
+sfr30, Opti, bv, 201, sat, 126, 25.2862, 0.33, 92187  
+sfr30, z3, ti, 201, sat, 126, 704.9464, 94.4, 19629408  
+sfr30, Opti, bv, 204, sat, 126, 22.2822, 0.34, 92310  
+sfr30, z3, ti, 204, sat, 126, 485.3873, 97.03, 20080326  
+sfr30, Opti, bv, 207, sat, 126, 29.041, 0.33, 92250  
+sfr30, z3, ti, 207, sat, 126, 350.2829, 99.86, 20580469  
+sfr30, Opti, bv, 210, sat, 126, 21.2818, 0.34, 92142  
+sfr30, z3, ti, 210, sat, 126, 481.7511, 102.58, 21079801  
+sfr30, Opti, bv, 213, sat, 126, 27.5395, 0.34, 92190  
+sfr30, z3, ti, 213, sat, 126, 366.9116, 105.16, 21552889  
+sfr30, Opti, bv, 216, sat, 126, 24.2859, 0.34, 92429  
+sfr30, z3, ti, 216, sat, 126, 452.9765, 108.43, 22052400  
+sfr30, Opti, bv, 219, sat, 126, 26.2886, 0.34, 92384  
+sfr30, z3, ti, 219, sat, 126, 550.3089, 111.33, 22553946  
+sfr30, Opti, bv, 222, sat, 126, 29.0425, 0.34, 92437  
+sfr30, z3, ti, 222, sat, 126, 450.3736, 114.14, 23077771  
+sfr30, Opti, bv, 225, sat, 126, 26.2882, 0.34, 92746  
+sfr30, z3, ti, 225, sat, 126, 693.0503, 117.2, 23567952  
+sfr30, Opti, bv, 228, sat, 126, 30.0427, 0.35, 92714  
+sfr30, z3, ti, 228, sat, 126, 573.1965, 120.05, 24081869  
+sfr30, Opti, bv, 231, sat, 126, 29.0418, 0.34, 92696  
+sfr30, z3, ti, 231, sat, 126, 395.5097, 123.53, 24625551  
+sfr30, Opti, bv, 234, sat, 126, 29.7924, 0.35, 92824  
+sfr30, z3, ti, 234, sat, 126, 577.9611, 126.87, 25125947  
+sfr30, Opti, bv, 237, sat, 126, 36.5506, 0.35, 92861  
+sfr30, z3, ti, 237, sat, 126, 449.5326, 129.43, 25667323  
+sfr30, Opti, bv, 240, sat, 126, 33.7974, 0.35, 92981  
+sfr30, z3, ti, 240, sat, 126, 588.7615, 132.69, 26214976  
+sfr30, Opti, bv, 243, sat, 126, 34.0477, 0.35, 93129  
+sfr30, z3, ti, 243, sat, 126, 747.0317, 136.16, 26732132  
+sfr30, Opti, bv, 246, sat, 126, 30.794, 0.35, 93194  
+sfr30, z3, ti, 246, sat, 126, 586.7885, 139.33, 27289135  
+sfr30, Opti, bv, 249, sat, 126, 31.5449, 0.35, 93267  
+sfr30, z3, ti, 249, sat, 126, 605.9877, 142.53, 27817953  
+sfr30, Opti, bv, 252, sat, 126, 44.8108, 0.35, 93349  
+sfr30, z3, ti, 252, sat, 126, 680.4333, 145.84, 28389487  
